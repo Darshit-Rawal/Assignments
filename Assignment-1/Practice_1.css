@@ -1,0 +1,128 @@
+.nav-bar {
+    display: flex;
+}
+
+.nav-bar-element{
+	display: flex;
+	padding: 10px; 
+	margin-left: 10px;
+}	
+
+.nav-bar-element a{
+	text-decoration: none;
+	color: #000;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.nav-bar-element a:hover{
+	text-decoration: none;
+	color: #878484;
+}
+
+.nav-container{
+	margin-top: auto;
+	margin-left: 0px;
+	background-color: #dddddd;
+	color: #000;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.banner{
+	background-color: #dddddd; 
+}
+
+.banner p{
+	margin-bottom: 20px;
+	padding-top: 150px;
+	margin-left: 100px;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: "Comic Sans MS";
+}
+
+.banner button{
+	margin-bottom: 50px;
+	margin-left: 100px;
+	font-size: 15px;
+	background-color: #6495ED;
+	padding: 7px;
+	border-radius: 10px;
+	color: white;
+}
+
+.banner button:hover{
+	color: black;
+}
+
+.about{
+	margin-top: 30px;
+}
+
+.about p{
+	text-align: center;
+	font-size: 19px;
+	padding: 0px 50px 0px 50px;
+}
+
+.service{
+	display: flex;
+	margin-top: 30px;
+}
+
+.service div{
+	padding: 50px;
+	background-color: #dddddd;
+	margin: 10px;
+	width: 33.33%;
+	text-align: center;
+}
+
+.service div > p{
+	font-size: 18px;
+	font-weight: bold;	
+}
+
+.product-container{
+	margin-top: 50px;
+	margin-bottom: auto;
+}
+
+.product-container p{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.product{
+	display: flex;
+}
+
+.product div{
+	padding: 30px;
+	background-color: #dddddd;
+	margin: 10px;
+	width: 16.66%;
+}
+
+.footer{
+	margin-top: 50px;
+	background-color: #dddddd;
+	padding: 10px;
+}
+
+.row{
+	display: flex;
+}
+
+.right-align{
+	margin-left: auto;
+}
+
+.small-font{
+	font-size: 14px;
+}
+
+.footer-bottom{
+	margin-top: 30px;
+}
