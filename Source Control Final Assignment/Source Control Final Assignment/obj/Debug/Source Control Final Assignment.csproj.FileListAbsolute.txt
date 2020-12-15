@@ -106,3 +106,6 @@ F:\study_matrial\Gateway Projects\Assignments\Source Control Final Assignment\So
 F:\study_matrial\Gateway Projects\Assignments\Source Control Final Assignment\Source Control Final Assignment\obj\Debug\Source_Control_Final_Assignment.Migrations.InitialCreate.resources
 F:\study_matrial\Gateway Projects\Assignments\Source Control Final Assignment\Source Control Final Assignment\obj\Debug\Source Control Final Assignment.csproj.GenerateResource.cache
 F:\study_matrial\Gateway Projects\Assignments\Source Control Final Assignment\Source Control Final Assignment\obj\Debug\Source_Control_Final_Assignment.Migrations.SourceControlFinalAssignment.resources
+F:\study_matrial\Gateway Projects\Assignments\Source Control Final Assignment\Source Control Final Assignment\bin\NLog.config
+F:\study_matrial\Gateway Projects\Assignments\Source Control Final Assignment\Source Control Final Assignment\bin\NLog.dll
+F:\study_matrial\Gateway Projects\Assignments\Source Control Final Assignment\Source Control Final Assignment\bin\NLog.xml
