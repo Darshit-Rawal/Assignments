@@ -1,0 +1,16 @@
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.DAL\bin\Debug\HMS.DAL.dll.config
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.DAL\bin\Debug\HMS.DAL.dll
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.DAL\bin\Debug\HMS.DAL.pdb
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.DAL\bin\Debug\AutoMapper.dll
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.DAL\bin\Debug\EntityFramework.dll
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.DAL\bin\Debug\HMS.Models.dll
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.DAL\bin\Debug\HMS.Models.pdb
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.DAL\bin\Debug\AutoMapper.xml
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.DAL\bin\Debug\EntityFramework.xml
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.DAL\obj\Debug\HMS.DAL.csprojAssemblyReference.cache
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.DAL\obj\Debug\HMS.DAL.csproj.CoreCompileInputs.cache
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.DAL\obj\Debug\HMS.DAL.csproj.CopyComplete
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.DAL\obj\Debug\HMS.DAL.dll
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.DAL\obj\Debug\HMS.DAL.pdb

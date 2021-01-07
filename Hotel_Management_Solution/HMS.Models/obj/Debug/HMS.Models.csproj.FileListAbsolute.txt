@@ -1,0 +1,6 @@
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.Models\bin\Debug\HMS.Models.dll
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.Models\bin\Debug\HMS.Models.pdb
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.Models\obj\Debug\HMS.Models.csprojAssemblyReference.cache
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.Models\obj\Debug\HMS.Models.csproj.CoreCompileInputs.cache
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.Models\obj\Debug\HMS.Models.dll
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\HMS.Models\obj\Debug\HMS.Models.pdb
