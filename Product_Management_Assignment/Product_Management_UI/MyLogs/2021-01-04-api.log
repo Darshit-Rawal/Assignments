@@ -1,0 +1,147 @@
+          --------------------- Info(2021-01-04 11:46:56.7256)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:User Logged In with Email: darshit1234@gmail.com
+          
+          --------------------- Error(2021-01-04 11:48:07.3296)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:Error Occured While Creating Product: -Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+          
+          --------------------- Error(2021-01-04 11:48:35.1451)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:Error Occured While Creating Product: -Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+          
+          --------------------- Error(2021-01-04 11:52:41.5206)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:Error Occured While Creating Product: -Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+          
+          --------------------- Info(2021-01-04 11:53:11.3267)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:Product Created With ID: -3004
+          
+          --------------------- Info(2021-01-04 12:22:39.0152)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:Delete Products Successful with IDs: -3004,
+          
+          --------------------- Error(2021-01-04 12:27:59.6853)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:Error Occured While Creating Product: -Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+          
+          --------------------- Info(2021-01-04 12:29:00.5874)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:Product Created With ID: -3005
+          
+          --------------------- Info(2021-01-04 12:29:29.4353)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:Delete Product Successful with ID: -3005
+          
+          --------------------- Error(2021-01-04 17:56:34.7362)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:Error Occured While Creating Product: -One or more errors occurred.
+          
+          --------------------- Error(2021-01-04 17:56:56.3404)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:Error Occured While Creating Product: -One or more errors occurred.
+          
+          --------------------- Error(2021-01-04 18:05:46.3122)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:Error Occured While Creating Product: -One or more errors occurred.
+          
+          --------------------- Error(2021-01-04 18:06:18.0357)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:Error Occured While Creating Product: -One or more errors occurred.
+          
+          --------------------- Error(2021-01-04 18:19:20.7819)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:Error Occured While Creating Product: -One or more errors occurred.
+          
+          --------------------- Error(2021-01-04 18:28:05.6416)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:Error Occured While Creating Product: -One or more errors occurred.
+          
+          --------------------- Error(2021-01-04 18:42:43.4315)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:Error Occured While Creating Product: -One or more errors occurred.
+          
+          --------------------- Error(2021-01-04 18:48:10.4993)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:Error Occured While Creating Product: -One or more errors occurred.
+          
+          --------------------- Error(2021-01-04 18:54:01.0727)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:Error Occured While Creating Product: -One or more errors occurred.
+          
+          --------------------- Info(2021-01-04 21:42:46.5056)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:User Logged In with Email: darshit1234@gmail.com
+          
+          --------------------- Error(2021-01-04 21:43:55.9757)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:Error Occured While Creating Product: -One or more errors occurred.
+          
+          --------------------- Info(2021-01-04 22:56:04.6467)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:Product Created With ID: -3008
+          

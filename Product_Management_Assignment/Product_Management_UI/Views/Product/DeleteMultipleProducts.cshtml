@@ -1,0 +1,63 @@
+﻿@{
+    ViewBag.Title = "DeleteMultipleProducts";
+}
+
+@model Product_Management_UI.Models.Product
+
+@using Product_Management_UI.Models;
+
+@{
+    IEnumerable<Product> Products = ViewBag.products;
+}
+
+<link href="~/Content/DeleteMultiple.css" rel="stylesheet" type="text/css" />
+<h2>Delete Products</h2>
+
+@if (!Products.Any())
+{
+    <h2> You Have Not Created Product/s !! Go To <a href="/Product/Index">Add Product</a> To Add Products</h2>
+}
+else
+{
+    using (Html.BeginForm("DeleteMultipleProducts", "Product", FormMethod.Post))
+    {
+        <div>
+            <div class="product-list" style="padding-bottom: 20px;">
+                <span style="font-weight: bold">Select Product</span>
+                <span style="margin-left: 18em;font-weight: bold">Product Name</span>
+                <span class="product-list-price">Product Price</span>
+            </div>
+            @foreach (var product in Products)
+            {
+                <div class="product-list">
+                    <p>
+                        <input id="@product.ProductId" type="checkbox" name="product_check" value="@product.ProductId" />
+                        <label for="@product.ProductId" class="product-list-name">@product.ProductName</label>
+                    </p>
+                    <span class="product-list-price">@product.PricePerUnit</span>
+                </div>
+            }
+        </div>
+
+        <input type="hidden" name="product_ids" id="ProductIds" value="" />
+
+        <div class="centered" style="margin-top: 3rem;">
+            <button type="submit" name="DeleteMultiple" onclick="updateValue()" class="btn btn-primary color-btn">Delete</button>
+        </div>
+    }
+
+    <script>
+        function updateValue(arg) {
+            var product_ids = ""
+            $('input[type=checkbox]').each(function () {
+                if (this.checked) {
+                    product_ids = product_ids + $(this).val() + ","
+                    //assign set value to hidden field
+                    $('#ProductIds').val(product_ids);
+                }
+            })
+        }
+    </script>
+}
+
+

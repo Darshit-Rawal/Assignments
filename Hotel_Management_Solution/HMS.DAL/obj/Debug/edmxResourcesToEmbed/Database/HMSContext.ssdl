@@ -7,7 +7,7 @@
     <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="BookingDate" Type="datetime" Nullable="false" />
     <Property Name="RoomId" Type="int" Nullable="false" />
-    <Property Name="Status" Type="char" MaxLength="20" Nullable="false" />
+    <Property Name="Status" Type="char" MaxLength="20" />
     <Property Name="BookingBy" Type="nvarchar" MaxLength="128" Nullable="false" />
   </EntityType>
   <EntityType Name="Hotels">

@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "AccessForbidden";
+}
+
+
+<link href="~/Content/ErrorPage.css" rel="stylesheet" />
+
+<p>HTTP: <span>403</span></p>
+<code><span>this_page</span>.<em>is_forbidden</em> = true;</code>
+<code><span>if</span> (<b>you_come_here_by_mistake</b>) {<span>you_are_not_allowed_to_access()</span>;}</code>
+<code><span>else if (<b>we_screwed_up</b>)</span> {<em>alert</em>(<i>"We're really sorry about that."</i>); <span>window</span>.<em>location</em> = home;}</code>
+<center><a class="error_anchor" href="/Home/Index">HOME</a></center>
+
+<script src="~/Content/ErrorPageJavaScript.js"></script>
+

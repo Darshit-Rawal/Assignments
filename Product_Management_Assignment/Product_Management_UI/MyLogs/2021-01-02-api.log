@@ -1,0 +1,14 @@
+          --------------------- Info(2021-01-02 21:59:41.7498)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:User created User Email: darshit1234@gmail.com
+          
+          --------------------- Error(2021-01-02 22:01:10.4832)BEST_BUDDY-------------------- 
+          
+          Exception Type:
+          Exception Message:
+          Stack Trace:
+          Additional Info:Error Occured While Creating Product: -Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+          

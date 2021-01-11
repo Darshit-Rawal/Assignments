@@ -10,6 +10,9 @@ namespace HMS.DAL.Repository
 {
     public class BookingRepository : IBookingRepository
     {
+        string defaultStatus = "Optional";
+        
+
         private readonly Database.HotelManagementDBEntities _dbContext;
 
         public BookingRepository()
@@ -21,17 +24,23 @@ namespace HMS.DAL.Repository
         {
             try
             {
-                Database.Booking entity = new Database.Booking();
+                if (booking != null || RoomCheckAvail(booking.RoomId, booking.BookingDate))
+                {
+                    Database.Booking entity = new Database.Booking();
 
-                var config = new MapperConfiguration(cfg => cfg.CreateMap<Bookings, Database.Booking>());
-                var mapper = new Mapper(config);
+                    var config = new MapperConfiguration(cfg => cfg.CreateMap<Bookings, Database.Booking>());
+                    var mapper = new Mapper(config);
 
-                entity = mapper.Map<Database.Booking>(booking);
+                    entity = mapper.Map<Database.Booking>(booking);
 
-                _dbContext.Bookings.Add(entity);
-                _dbContext.SaveChanges();
+                    entity.Status = defaultStatus;
 
-                return "created";
+                    _dbContext.Bookings.Add(entity);
+                    _dbContext.SaveChanges();
+
+                    return "created";
+                }
+                return "null";
             }
             catch (Exception ex)
             {
@@ -60,13 +69,12 @@ namespace HMS.DAL.Repository
             {
                 var entity = _dbContext.Bookings.Find(booking.Id);
 
-                if (entity != null)
+                if (entity != null || RoomCheckAvail(booking.RoomId, booking.BookingDate))
                 {
-
-                    var config = new MapperConfiguration(cfg => cfg.CreateMap<Bookings, Database.Booking>());
-                    var mapper = new Mapper(config);
-
-                    entity = mapper.Map<Database.Booking>(booking);
+                    entity.RoomId = booking.RoomId;
+                    entity.BookingDate = booking.BookingDate;
+                    entity.BookingBy = booking.BookingBy;
+                    entity.Status = defaultStatus;
                     _dbContext.SaveChanges();
 
                     return "Updated";

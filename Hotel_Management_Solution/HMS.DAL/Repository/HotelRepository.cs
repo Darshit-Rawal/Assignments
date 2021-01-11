@@ -29,6 +29,8 @@ namespace HMS.DAL.Repository
                     var mapper = new Mapper(config);
 
                     entity = mapper.Map<Database.Hotel>(hotel);
+                    entity.CreatedDate = DateTime.Now;
+                    entity.UpdatedDate = DateTime.Now;
 
                     _dbContext.Hotels.Add(entity);
                     _dbContext.SaveChanges();
@@ -45,7 +47,7 @@ namespace HMS.DAL.Repository
 
         public List<Hotels> GetAllHotels()
         {
-            var entities = _dbContext.Hotels.ToList();
+            var entities = _dbContext.Hotels.OrderBy(x => x.Name).ToList();
 
             List<Hotels> hotels = new List<Hotels>();
 

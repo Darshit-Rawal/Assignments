@@ -127,3 +127,6 @@ F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\Hotel_Ma
 F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\Hotel_Management\obj\Debug\Hotel_Management.csproj.CopyComplete
 F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\Hotel_Management\obj\Debug\Hotel_Management.dll
 F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\Hotel_Management\obj\Debug\Hotel_Management.pdb
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\Hotel_Management\bin\System.Web.Cors.dll
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\Hotel_Management\bin\System.Web.Http.Cors.dll
+F:\study_matrial\Gateway Projects\Assignments\Hotel_Management_Solution\Hotel_Management\bin\System.Web.Http.Cors.xml

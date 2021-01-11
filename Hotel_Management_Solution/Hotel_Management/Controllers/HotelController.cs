@@ -1,5 +1,6 @@
 ﻿using HMS.BAL.Interface;
 using HMS.Models;
+using Microsoft.AspNet.Identity;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,6 +21,7 @@ namespace Hotel_Management.Controllers
         }
 
         // GET: api/Hotel
+        [HttpGet]
         public IHttpActionResult Get()
         {
             List<Hotels> hotels = _hotelManager.GetAllHotels();
@@ -31,6 +33,7 @@ namespace Hotel_Management.Controllers
         }
 
         // GET: api/Hotel/5
+        [HttpGet]
         public IHttpActionResult Get(int id)
         {
             Hotels hotel = _hotelManager.GetHotel(id);
@@ -42,8 +45,16 @@ namespace Hotel_Management.Controllers
         }
 
         // POST: api/Hotel
+        [HttpPost]
         public IHttpActionResult Post([FromBody]Hotels hotel)
         {
+            string userId = User.Identity.GetUserId();
+            if (userId == null)
+            {
+                return Unauthorized();
+            }
+            hotel.CreatedBy= userId;
+            hotel.UpdatedBy = userId;
             string response = _hotelManager.CreateHotel(hotel);
             if (response.Equals("null"))
             {

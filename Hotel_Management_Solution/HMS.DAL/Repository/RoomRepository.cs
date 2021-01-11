@@ -29,6 +29,8 @@ namespace HMS.DAL.Repository
                     var mapper = new Mapper(config);
 
                     entity = mapper.Map<Database.Room>(room);
+                    entity.CreatedDate = DateTime.Now;
+                    entity.UpdatedDate = DateTime.Now;
 
                     _dbContext.Rooms.Add(entity);
                     _dbContext.SaveChanges();
@@ -66,7 +68,7 @@ namespace HMS.DAL.Repository
 
         public List<Rooms> GetRoom(int hotelId)
         {
-            var entities = _dbContext.Rooms.Where(x => x.HotelId == hotelId).OrderBy(x => x.Price).ToList(); ;
+            var entities = _dbContext.Rooms.Where(x => x.HotelId == hotelId).OrderBy(x => x.Price).ToList();
 
             List<Rooms> rooms = new List<Rooms>();
 

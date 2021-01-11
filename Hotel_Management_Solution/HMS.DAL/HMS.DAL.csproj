@@ -86,29 +86,15 @@
     <Compile Include="Repository\RoomRepository.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.Config" />
     <EntityDeploy Include="Database\HMSContext.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
       <LastGenOutput>HMSContext.Designer.cs</LastGenOutput>
     </EntityDeploy>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.Config" />
     <None Include="Database\HMSContext.edmx.diagram">
       <DependentUpon>HMSContext.edmx</DependentUpon>
     </None>
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Database\HMSContext.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>HMSContext.Context.cs</LastGenOutput>
-      <DependentUpon>HMSContext.edmx</DependentUpon>
-    </Content>
-    <Content Include="Database\HMSContext.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>HMSContext.edmx</DependentUpon>
-      <LastGenOutput>HMSContext.cs</LastGenOutput>
-    </Content>
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
@@ -118,6 +104,18 @@
       <Project>{a1c159e1-159a-46a8-a789-5c3a38b1a1f9}</Project>
       <Name>HMS.Models</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Database\HMSContext.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>HMSContext.edmx</DependentUpon>
+      <LastGenOutput>HMSContext.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Database\HMSContext.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>HMSContext.edmx</DependentUpon>
+      <LastGenOutput>HMSContext.cs</LastGenOutput>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

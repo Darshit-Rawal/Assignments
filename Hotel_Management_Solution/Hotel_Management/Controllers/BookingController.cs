@@ -1,5 +1,6 @@
 ﻿using HMS.BAL.Interface;
 using HMS.Models;
+using Microsoft.AspNet.Identity;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,21 +19,17 @@ namespace Hotel_Management.Controllers
             _bookingManager = bookingManager;
         }
 
-        //// GET: api/Booking
-        //public IEnumerable<string> Get()
-        //{
-        //    return new string[] { "value1", "value2" };
-        //}
-
-        //// GET: api/Booking/5
-        //public string Get(int id)
-        //{
-        //    return "value";
-        //}
-
         // POST: api/Booking
+        [HttpPost]
+        [Route("api/Booking")]
         public IHttpActionResult Post([FromBody]Bookings booking)
         {
+            string userId = User.Identity.GetUserId();
+            if (userId == null)
+            {
+                return Unauthorized();
+            }
+            booking.BookingBy = userId;
             string response = _bookingManager.CreateBooking(booking);
             if (response.Equals("null"))
             {
@@ -42,7 +39,9 @@ namespace Hotel_Management.Controllers
         }
 
         // PUT: api/Booking/5
-        public IHttpActionResult Put(int bookingId, [FromBody]string status)
+        [HttpPut]
+        [Route("api/Booking/{bookingId}/{status}")]
+        public IHttpActionResult Put(int bookingId, [FromUri]string status)
         {
             string response = _bookingManager.UpdateBooking(bookingId, status);
             if (response.Equals("null"))
@@ -53,8 +52,16 @@ namespace Hotel_Management.Controllers
         }
 
         // PUT: api/Booking
+        [HttpPut]
+        [Route("api/Booking")]
         public IHttpActionResult Put([FromBody]Bookings booking)
         {
+            string userId = User.Identity.GetUserId();
+            if (userId == null)
+            {
+                return Unauthorized();
+            }
+            booking.BookingBy = userId;
             string response = _bookingManager.UpdateBooking(booking);
             if (response.Equals("null"))
             {
@@ -64,6 +71,7 @@ namespace Hotel_Management.Controllers
         }
 
         // DELETE: api/Booking/5
+        [HttpDelete]
         public IHttpActionResult Delete(int id)
         {
             string response = _bookingManager.DeleteBooking(id);
@@ -75,6 +83,8 @@ namespace Hotel_Management.Controllers
         }
 
         // GET: api/Booking?roomId={roomId}&date={date}
+        [HttpGet]
+        [Route("api/Booking")]
         public IHttpActionResult Get([FromUri]int roomId, [FromUri]DateTime date)
         {
             bool response = _bookingManager.RoomCheckAvail(roomId, date);
