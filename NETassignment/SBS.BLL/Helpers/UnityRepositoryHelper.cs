@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Unity.Extension;
+using Unity;
+using SBS.DAL.Repository.Interface;
+using SBS.DAL.Repository.Classes;
+
+namespace SBS.BLL.Helpers
+{
+    public class UnityRepositoryHelper : UnityContainerExtension
+    {
+        protected override void Initialize()
+        {
+            Container.RegisterType<ICustomerRepository, CustomerRepository>();
+            Container.RegisterType<IVehicleRepository, VehicleRepository>();
+        }
+    }
+}
