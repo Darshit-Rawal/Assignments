@@ -1,0 +1,35 @@
+﻿@using Product_Management_UI.Models;
+@{
+    ViewBag.Title = "ProductDetails";
+    Product product = ViewBag.product;
+}
+
+@Styles.Render("~/Content/css")
+
+<style>
+    .centered {
+        text-align: center;
+    }
+
+    .image {
+        height: 20rem;
+    }
+
+        .image img {
+            height: 100%;
+        }
+
+</style>
+
+<main class="centered">
+    <h1>@product.ProductName</h1>
+    <hr>
+    <div class="image">
+        <img src=@product.LargeImagePath alt=@product.ProductName>
+    </div>
+    <h2>&#x20B9;@product.PricePerUnit</h2>
+    <hr/>
+    <h2>@product.ProductCategory.ProductCategoryName</h2>
+    <p>@product.LongDescription</p>
+</main>
+

@@ -1,0 +1,242 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@using Product_Management_UI.Models;
+@using Microsoft.AspNet.Identity;
+
+
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+<meta content="utf-8" http-equiv="encoding">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<link href="~/Content/DeleteMultiple.css" rel="stylesheet" type="text/css" />
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+@Styles.Render("~/Content/css")
+
+@{
+    IEnumerable<Product> products = ViewBag.products;
+}
+
+<br />
+
+
+@* Start: -Notification For Deletion Successful *@
+
+@if (ViewBag.error != null)
+{
+    if (ViewBag.error)
+    {
+        <div id="divHide" class="user-message user-message--error">
+            <h5>Some Server Error Occured</h5>
+        </div>
+    }
+
+}
+
+@if (ViewBag.deletion_success != null)
+{
+    if (ViewBag.deletion_success)
+    {
+        <div id="divHide" class="user-message user-message--success">
+            <h5>Product Deletion Successfully</h5>
+        </div>
+    }
+}
+
+
+@if (ViewBag.editing_success != null)
+{
+    if (ViewBag.editing_success)
+    {
+        <div id="divHide" class="user-message user-message--info">
+            <h5>Product Edited Successfully</h5>
+        </div>
+    }
+}
+
+<script>
+    $('#divHide').delay(1000).hide(500);
+</script>
+
+@* END: -Notification For Deletion Successful *@
+
+
+
+<h4 style="margin-top: 20px;"><b>Filters:</b></h4>
+
+@* Sorting Filter *@
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+    <div class="grid-item-search">
+        <div class="menu-place">
+            <label for="sorting_option">Sorting Option: </label>
+            <select id="sorting_option" name="sortOn" class="form-control dropdown-search">
+                <option value="ProductName_sort" style="padding: 5px">Product Name</option>
+                <option value="ProductCategory_sort" style="padding: 5px">Product Category</option>
+            </select>
+        </div>
+        <div class="menu-place">
+            <select id="sorting_order" name="sortOrder" class="form-control dropdown-search" style="padding-right:68px">
+                <option value="Ascending" style="padding: 5px">Ascending</option>
+                <option value="Descending" style="padding: 5px">Descending</option>
+            </select>
+        </div>
+        <div class="topnav">
+            <button type="submit">Apply</button>
+        </div>
+    </div>
+}
+
+
+@* Search Filter *@
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+    <div class="grid-item-search">
+        <div class="menu-place">
+            <label for="search_option">Search Option: </label>
+            <select id="search_option" name="searchOn" class="form-control dropdown-search">
+                <option value="ProductName" style="padding: 5px">Product Name</option>
+                <option value="ProductCategory" style="padding: 5px">Product Category</option>
+            </select>
+        </div>
+        <div class="topnav">
+            <input id="search_string" type="text" placeholder="Search.." name="product" class="form-control" style="margin-right:9%">
+            <button type="submit">Search</button>
+        </div>
+    </div>
+}
+
+
+@* Check If any Product Is available *@
+
+@if (products.Any())
+{
+    <div class="grid">
+        @foreach (var product in products)
+        {
+            <article class="card product-item grid-item">
+                <div class="card__image">
+                    <img src=@product.SmallImagePath alt=@product.ProductName>
+                </div>
+                <div class="card__header">
+                    <h1 class="product__title">
+                        @product.ProductName
+                    </h1>
+                </div>
+                <div class="card__content">
+                    <div class="card__content_c">
+                        <p class="product__category">
+                            @product.ProductCategory.ProductCategoryName
+                        </p>
+                        <hr />
+                        <p class="product__description">
+                            @product.ShortDescription
+                        </p>
+                    </div>
+
+                </div>
+                <div class="card__content__price">
+                    <div class="card__content__price">
+                        <h2 class="product__price">
+                            &#x20B9;@product.PricePerUnit
+                        </h2>
+                    </div>
+                    <div class="card_action">
+                        @using (Html.BeginForm("ProductDetails", "Product", FormMethod.Get))
+                        {
+                            <div class="card__actions">
+                                <input type="hidden" name="ProductId" value=@product.ProductId />
+                                <button class="btn" type="submit">Details</button>
+                            </div>
+                        }
+                        @if (User.Identity.GetUserId() != null && product.CreatedBy == User.Identity.GetUserId())
+                        {
+                            using (Html.BeginForm("ProductEdit", "Product", FormMethod.Get))
+                            {
+                                <div class="card__actions">
+                                    <input type="hidden" name="ProductId" value=@product.ProductId />
+                                    <button class="btn" type="submit">Edit</button>
+                                </div>
+                            }
+                            using (Html.BeginForm("ProductDelete", "Product", FormMethod.Get))
+                            {
+                                <div class="card__actions">
+                                    <input type="hidden" name="ProductId" value=@product.ProductId />
+                                    <button class="btn" type="submit">Delete</button>
+                                </div>
+                            }
+                        }
+                    </div>
+                </div>
+            </article>
+        }
+    </div>
+
+
+    //Pagination
+    <div class="pagination-custom">
+        @using (Html.BeginForm("Index", "Home", FormMethod.Post))
+        {
+            //Sorting Params For Pagination
+            <input type="hidden" name="sortOrder" value=@ViewBag.sortOrder />
+            <input type="hidden" name="sortOn" value=@ViewBag.sortOn />
+
+            //Searching Params For Pagination
+            <input type="hidden" name="product" value=@ViewBag.product />
+            <input type="hidden" name="searchOn" value=@ViewBag.searchOn />
+
+
+            int currentPage = 1;
+            if (Request.Params["page"] == null)
+            {
+                currentPage = 1;
+            }
+            else
+            {
+                currentPage = int.Parse(Request.Params["page"]);
+            }
+            int PreviousPage = currentPage - 1;
+            <button name="page" type="submit" value="@PreviousPage" @( PreviousPage == 0 ? "disabled = 'disabled'" : "") class="btn btn-primary">
+                Previous
+            </button>
+        }
+
+        @using (Html.BeginForm("Index", "Home", FormMethod.Post))
+        {
+            //Sorting Params For Pagination
+            <input type="hidden" name="sortOrder" value=@ViewBag.sortOrder />
+            <input type="hidden" name="sortOn" value=@ViewBag.sortOn />
+
+            //Searching Params For Pagination
+            <input type="hidden" name="product" value=@ViewBag.product />
+            <input type="hidden" name="searchOn" value=@ViewBag.searchOn />
+
+            int currentPage = 1;
+            int lastPage = (int)ViewBag.lastPage;
+            if (Request.Params["page"] == null)
+            {
+                currentPage = 1;
+            }
+            else
+            {
+                currentPage = int.Parse(Request.Params["page"]);
+            }
+            int nextPage = currentPage + 1;
+            <button name="page" type="submit" value="@nextPage" @( currentPage == lastPage ? "disabled = 'disabled'" : "") class="btn btn-primary">
+                Next
+            </button>
+        }
+    </div>
+
+    //Delete Multiple Products
+    <div class="centered" style="margin-top: 3rem;">
+        <a href="/Product/DeleteMultipleProducts" class="btn btn-primary color-btn">Delete Multiple Products</a>
+    </div>
+}
+else
+{
+    <h2> No Product/s Available!! Go To <a href="/Product/Index">Add Product</a> To Add Products</h2>
+}

@@ -1,0 +1,580 @@
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\obj\Debug\Product_Management_UI.dll.config
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\obj\Debug\Product_Management_UI.Migrations.InitialCreate.resources
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\obj\Debug\Product_Management_UI.Migrations.migration_1.resources
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\obj\Debug\Product_Management_UI.csproj.GenerateResource.cache
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\obj\Debug\Product_Management_UI.csproj.CoreCompileInputs.cache
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\NLog.config
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Product_Management_UI.dll.config
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Product_Management_UI.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Product_Management_UI.pdb
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\csc.exe
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\csc.exe.config
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\csc.rsp
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\csi.exe
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\csi.exe.config
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\csi.rsp
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\Microsoft.Managed.Core.targets
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.AppContext.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.Collections.Immutable.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.Console.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.IO.Compression.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.IO.FileSystem.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.IO.Pipes.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.Reflection.Metadata.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.Security.AccessControl.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.Security.Claims.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.Security.Principal.Windows.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.ValueTuple.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.Xml.XmlDocument.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.Xml.XPath.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\vbc.exe
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\vbc.exe.config
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\vbc.rsp
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\VBCSCompiler.exe
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\roslyn\VBCSCompiler.exe.config
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Win32.Primitives.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\netstandard.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.AppContext.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Collections.Concurrent.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Collections.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Collections.NonGeneric.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Collections.Specialized.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.ComponentModel.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.ComponentModel.EventBasedAsync.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.ComponentModel.Primitives.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.ComponentModel.TypeConverter.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Console.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Data.Common.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Diagnostics.Contracts.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Diagnostics.Debug.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Diagnostics.FileVersionInfo.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Diagnostics.Process.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Diagnostics.StackTrace.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Diagnostics.TextWriterTraceListener.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Diagnostics.Tools.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Diagnostics.TraceSource.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Diagnostics.Tracing.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Drawing.Primitives.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Dynamic.Runtime.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Globalization.Calendars.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Globalization.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Globalization.Extensions.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.IO.Compression.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.IO.Compression.ZipFile.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.IO.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.IO.FileSystem.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.IO.FileSystem.DriveInfo.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.IO.FileSystem.Primitives.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.IO.FileSystem.Watcher.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.IO.IsolatedStorage.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.IO.MemoryMappedFiles.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.IO.Pipes.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.IO.UnmanagedMemoryStream.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Linq.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Linq.Expressions.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Linq.Parallel.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Linq.Queryable.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Net.Http.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Net.NameResolution.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Net.NetworkInformation.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Net.Ping.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Net.Primitives.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Net.Requests.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Net.Security.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Net.Sockets.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Net.WebHeaderCollection.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Net.WebSockets.Client.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Net.WebSockets.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.ObjectModel.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Reflection.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Reflection.Extensions.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Reflection.Primitives.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Resources.Reader.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Resources.ResourceManager.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Resources.Writer.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Runtime.CompilerServices.VisualC.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Runtime.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Runtime.Extensions.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Runtime.Handles.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Runtime.InteropServices.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Runtime.Numerics.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Runtime.Serialization.Formatters.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Runtime.Serialization.Json.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Runtime.Serialization.Primitives.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Runtime.Serialization.Xml.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Security.Claims.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Security.Cryptography.Algorithms.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Security.Cryptography.Csp.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Security.Cryptography.Encoding.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Security.Cryptography.Primitives.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Security.Cryptography.X509Certificates.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Security.Principal.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Security.SecureString.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Text.Encoding.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Text.Encoding.Extensions.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Text.RegularExpressions.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Threading.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Threading.Overlapped.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Threading.Tasks.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Threading.Tasks.Parallel.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Threading.Thread.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Threading.ThreadPool.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Threading.Timer.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.ValueTuple.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Xml.ReaderWriter.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Xml.XDocument.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Xml.XmlDocument.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Xml.XmlSerializer.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Xml.XPath.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Xml.XPath.XDocument.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Antlr3.Runtime.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\EntityFramework.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\EntityFramework.SqlServer.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Bcl.HashCode.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Data.SqlClient.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.EntityFrameworkCore.Design.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.EntityFrameworkCore.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.EntityFrameworkCore.Relational.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.Caching.Abstractions.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.Caching.Memory.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.Configuration.Binder.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.Configuration.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.DependencyInjection.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.Logging.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.Options.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.Primitives.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Identity.Client.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.IdentityModel.Logging.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.IdentityModel.Protocols.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.IdentityModel.Tokens.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Owin.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Owin.Security.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Owin.Security.Facebook.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Owin.Security.Google.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Owin.Security.Twitter.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Web.Infrastructure.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Newtonsoft.Json.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\NLog.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Owin.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Buffers.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Collections.Immutable.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.ComponentModel.Annotations.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Diagnostics.DiagnosticSource.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Memory.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Numerics.Vectors.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Threading.Tasks.Extensions.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Web.Helpers.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Web.Mvc.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Web.Optimization.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Web.Razor.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Web.WebPages.Deployment.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Web.WebPages.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Web.WebPages.Razor.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\WebGrease.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Bcl.AsyncInterfaces.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Bcl.HashCode.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Data.SqlClient.pdb
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Data.SqlClient.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.EntityFrameworkCore.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.EntityFrameworkCore.Design.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.EntityFrameworkCore.Relational.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.Caching.Abstractions.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.Caching.Memory.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.Configuration.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.Configuration.Binder.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.DependencyInjection.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.Logging.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.Options.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Extensions.Primitives.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Identity.Client.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.IdentityModel.Logging.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.IdentityModel.Protocols.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.IdentityModel.Tokens.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\NLog.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Buffers.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Collections.Immutable.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Diagnostics.DiagnosticSource.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Memory.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Numerics.Vectors.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Threading.Tasks.Extensions.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Web.Helpers.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Web.Mvc.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Web.Optimization.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Web.Razor.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Web.WebPages.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Web.WebPages.Deployment.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Web.WebPages.Razor.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Newtonsoft.Json.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Antlr3.Runtime.pdb
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\EntityFramework.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\EntityFramework.SqlServer.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Owin.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Owin.Security.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Owin.Security.Facebook.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Owin.Security.Google.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Owin.Security.Twitter.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\de\Microsoft.Data.SqlClient.resources.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\es\Microsoft.Data.SqlClient.resources.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\fr\Microsoft.Data.SqlClient.resources.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\it\Microsoft.Data.SqlClient.resources.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\ja\Microsoft.Data.SqlClient.resources.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\ko\Microsoft.Data.SqlClient.resources.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\ru\Microsoft.Data.SqlClient.resources.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\obj\Debug\Product_Management_UI.csproj.CopyComplete
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\obj\Debug\Product_Management_UI.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\obj\Debug\Product_Management_UI.pdb
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Net.Http.Formatting.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Web.Http.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Web.Http.WebHost.dll
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Net.Http.Formatting.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Web.Http.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\bin\System.Web.Http.WebHost.xml
+F:\study_matrial\Gateway Projects\.Net Projects\Product_Management\Product_Management_UI\obj\Debug\Product_Management_UI.csprojAssemblyReference.cache
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\NLog.config
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Product_Management_UI.dll.config
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Product_Management_UI.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Product_Management_UI.pdb
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\csc.exe
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\csc.exe.config
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\csc.rsp
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\csi.exe
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\csi.exe.config
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\csi.rsp
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\Microsoft.Managed.Core.targets
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.AppContext.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.Collections.Immutable.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.Console.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.IO.Compression.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.IO.FileSystem.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.IO.Pipes.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.Reflection.Metadata.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.Security.AccessControl.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.Security.Claims.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.Security.Principal.Windows.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.ValueTuple.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.Xml.XmlDocument.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.Xml.XPath.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\vbc.exe
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\vbc.exe.config
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\vbc.rsp
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\VBCSCompiler.exe
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\roslyn\VBCSCompiler.exe.config
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Win32.Primitives.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\netstandard.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.AppContext.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Collections.Concurrent.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Collections.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Collections.NonGeneric.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Collections.Specialized.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.ComponentModel.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.ComponentModel.EventBasedAsync.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.ComponentModel.Primitives.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.ComponentModel.TypeConverter.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Console.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Data.Common.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Diagnostics.Contracts.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Diagnostics.Debug.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Diagnostics.FileVersionInfo.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Diagnostics.Process.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Diagnostics.StackTrace.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Diagnostics.TextWriterTraceListener.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Diagnostics.Tools.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Diagnostics.TraceSource.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Diagnostics.Tracing.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Drawing.Primitives.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Dynamic.Runtime.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Globalization.Calendars.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Globalization.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Globalization.Extensions.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.IO.Compression.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.IO.Compression.ZipFile.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.IO.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.IO.FileSystem.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.IO.FileSystem.DriveInfo.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.IO.FileSystem.Primitives.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.IO.FileSystem.Watcher.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.IO.IsolatedStorage.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.IO.MemoryMappedFiles.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.IO.Pipes.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.IO.UnmanagedMemoryStream.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Linq.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Linq.Expressions.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Linq.Parallel.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Linq.Queryable.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Net.Http.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Net.NameResolution.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Net.NetworkInformation.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Net.Ping.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Net.Primitives.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Net.Requests.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Net.Security.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Net.Sockets.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Net.WebHeaderCollection.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Net.WebSockets.Client.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Net.WebSockets.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.ObjectModel.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Reflection.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Reflection.Extensions.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Reflection.Primitives.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Resources.Reader.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Resources.ResourceManager.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Resources.Writer.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Runtime.CompilerServices.VisualC.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Runtime.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Runtime.Extensions.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Runtime.Handles.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Runtime.InteropServices.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Runtime.Numerics.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Runtime.Serialization.Formatters.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Runtime.Serialization.Json.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Runtime.Serialization.Primitives.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Runtime.Serialization.Xml.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Security.Claims.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Security.Cryptography.Algorithms.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Security.Cryptography.Csp.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Security.Cryptography.Encoding.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Security.Cryptography.Primitives.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Security.Cryptography.X509Certificates.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Security.Principal.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Security.SecureString.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Text.Encoding.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Text.Encoding.Extensions.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Text.RegularExpressions.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Threading.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Threading.Overlapped.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Threading.Tasks.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Threading.Tasks.Parallel.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Threading.Thread.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Threading.ThreadPool.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Threading.Timer.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.ValueTuple.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Xml.ReaderWriter.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Xml.XDocument.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Xml.XmlDocument.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Xml.XmlSerializer.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Xml.XPath.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Xml.XPath.XDocument.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Antlr3.Runtime.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\EntityFramework.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\EntityFramework.SqlServer.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Bcl.HashCode.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Data.SqlClient.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.EntityFrameworkCore.Design.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.EntityFrameworkCore.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.EntityFrameworkCore.Relational.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.Caching.Abstractions.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.Caching.Memory.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.Configuration.Binder.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.Configuration.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.DependencyInjection.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.Logging.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.Options.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.Primitives.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Identity.Client.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.IdentityModel.Logging.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.IdentityModel.Protocols.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.IdentityModel.Tokens.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Owin.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Owin.Security.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Owin.Security.Facebook.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Owin.Security.Google.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Owin.Security.Twitter.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Web.Infrastructure.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Newtonsoft.Json.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\NLog.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Owin.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Buffers.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Collections.Immutable.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.ComponentModel.Annotations.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Diagnostics.DiagnosticSource.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Memory.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Net.Http.Formatting.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Numerics.Vectors.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Threading.Tasks.Extensions.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Web.Helpers.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Web.Http.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Web.Http.WebHost.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Web.Mvc.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Web.Optimization.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Web.Razor.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Web.WebPages.Deployment.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Web.WebPages.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Web.WebPages.Razor.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\WebGrease.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Bcl.AsyncInterfaces.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Bcl.HashCode.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Data.SqlClient.pdb
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Data.SqlClient.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.EntityFrameworkCore.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.EntityFrameworkCore.Design.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.EntityFrameworkCore.Relational.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.Caching.Abstractions.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.Caching.Memory.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.Configuration.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.Configuration.Binder.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.DependencyInjection.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.Logging.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.Options.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Extensions.Primitives.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Identity.Client.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.IdentityModel.Logging.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.IdentityModel.Protocols.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.IdentityModel.Tokens.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\NLog.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Buffers.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Collections.Immutable.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Diagnostics.DiagnosticSource.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Memory.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Net.Http.Formatting.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Numerics.Vectors.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Threading.Tasks.Extensions.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Web.Http.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Web.Http.WebHost.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Web.Helpers.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Web.Mvc.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Web.Optimization.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Web.Razor.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Web.WebPages.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Web.WebPages.Deployment.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\System.Web.WebPages.Razor.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Newtonsoft.Json.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Antlr3.Runtime.pdb
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\EntityFramework.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\EntityFramework.SqlServer.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Owin.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Owin.Security.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Owin.Security.Facebook.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Owin.Security.Google.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Owin.Security.Twitter.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\de\Microsoft.Data.SqlClient.resources.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\es\Microsoft.Data.SqlClient.resources.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\fr\Microsoft.Data.SqlClient.resources.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\it\Microsoft.Data.SqlClient.resources.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\ja\Microsoft.Data.SqlClient.resources.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\ko\Microsoft.Data.SqlClient.resources.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\ru\Microsoft.Data.SqlClient.resources.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\obj\Debug\Product_Management_UI.csprojAssemblyReference.cache
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\obj\Debug\Product_Management_UI.dll.config
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\obj\Debug\Product_Management_UI.Migrations.InitialCreate.resources
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\obj\Debug\Product_Management_UI.Migrations.migration_1.resources
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\obj\Debug\Product_Management_UI.csproj.GenerateResource.cache
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\obj\Debug\Product_Management_UI.csproj.CoreCompileInputs.cache
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\obj\Debug\Product_Management_UI.csproj.CopyComplete
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\obj\Debug\Product_Management_UI.dll
+F:\study_matrial\Gateway Projects\Assignments\C#Assignment\Product_Management_UI\obj\Debug\Product_Management_UI.pdb
