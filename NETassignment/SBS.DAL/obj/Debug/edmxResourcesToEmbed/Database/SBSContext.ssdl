@@ -12,6 +12,7 @@
     <Property Name="AppointmentDate" Type="datetime" Nullable="false" />
     <Property Name="ServiceId" Type="int" Nullable="false" />
     <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="UpdatedBy" Type="int" Nullable="false" />
   </EntityType>
   <EntityType Name="Customers">
     <Key>
@@ -72,7 +73,7 @@
     <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
     <Property Name="Price" Type="decimal" Precision="7" Scale="2" Nullable="false" />
-    <Property Name="Time" Type="datetime" Nullable="false" />
+    <Property Name="Time" Type="time" Precision="4" Nullable="false" />
     <Property Name="Active" Type="bit" Nullable="false" />
   </EntityType>
   <EntityType Name="Vehicles">
@@ -96,6 +97,18 @@
       </Principal>
       <Dependent Role="Appointments">
         <PropertyRef Name="CustomerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Appointments_Customers2">
+    <End Role="Customers" Type="Self.Customers" Multiplicity="1" />
+    <End Role="Appointments" Type="Self.Appointments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Appointments">
+        <PropertyRef Name="UpdatedBy" />
       </Dependent>
     </ReferentialConstraint>
   </Association>
@@ -217,6 +230,10 @@
     <EntitySet Name="Services" EntityType="Self.Services" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Vehicles" EntityType="Self.Vehicles" Schema="dbo" store:Type="Tables" />
     <AssociationSet Name="FK_Appointments_Customers" Association="Self.FK_Appointments_Customers">
+      <End Role="Customers" EntitySet="Customers" />
+      <End Role="Appointments" EntitySet="Appointments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Appointments_Customers2" Association="Self.FK_Appointments_Customers2">
       <End Role="Customers" EntitySet="Customers" />
       <End Role="Appointments" EntitySet="Appointments" />
     </AssociationSet>

@@ -1,0 +1,62 @@
+﻿@model IEnumerable<SBS.BusinessEntity.Appointment>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CustomerId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DealerId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MachanicId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.VehicleId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AppointmentDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ServiceId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Customer.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Dealer.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Mechanic.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Vehicle.LicensePlate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AppointmentDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Service.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Status)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

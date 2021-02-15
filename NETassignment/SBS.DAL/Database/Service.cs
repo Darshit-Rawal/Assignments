@@ -23,7 +23,7 @@ namespace SBS.DAL.Database
         public int Id { get; set; }
         public string Name { get; set; }
         public decimal Price { get; set; }
-        public System.DateTime Time { get; set; }
+        public System.TimeSpan Time { get; set; }
         public bool Active { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]

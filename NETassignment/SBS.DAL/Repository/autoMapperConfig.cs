@@ -17,9 +17,12 @@ namespace SBS.DAL.Repository
         public static Mapper VehicleToDbVehicle = new Mapper(new MapperConfiguration(cfg => {
             cfg.CreateMap<Vehicle, Database.Vehicle>();
         }));
+        
 
-        public static Mapper DbVehicleToVehicle = new Mapper(new MapperConfiguration(cfg => {
+        public static Mapper DbVehicleToVehicle = new Mapper(new MapperConfiguration(cfg =>
+        {
             cfg.CreateMap<Database.Vehicle, Vehicle>();
+            cfg.CreateMap<Database.Manufacturer, Manufacturer>();
         }));
 
         public static Mapper DbDealerToDealer = new Mapper(new MapperConfiguration(cfg => {

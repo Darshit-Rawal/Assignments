@@ -1,5 +1,6 @@
 ﻿using SBS.BLL.Interface;
 using SBS.BusinessEntity;
+using SBS.DAL.Repository.Classes;
 using SBS.DAL.Repository.Interface;
 using System;
 using System.Collections.Generic;
@@ -20,6 +21,8 @@ namespace SBS.BLL.Classes
 
         public string Create(Appointment appoinement)
         {
+            SupportRepository support = new SupportRepository();
+            appoinement.MachanicId = support.GetMechanics(appoinement.Vehicle.Manufacturer.Name).Id;
             return _appointmentRepository.Create(appoinement);
         }
 

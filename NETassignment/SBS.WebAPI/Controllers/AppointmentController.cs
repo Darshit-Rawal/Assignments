@@ -28,7 +28,9 @@ namespace SBS.WebAPI.Controllers
             if (appointment.CustomerId == 0)
             {
                 var identity = (ClaimsIdentity)User.Identity;
-                appointment.CustomerId = int.Parse(identity.Claims.FirstOrDefault(c => c.Type == "UserId").Value);
+                var Id = int.Parse(identity.Claims.FirstOrDefault(c => c.Type == "UserId").Value);
+                appointment.CustomerId = Id;
+                appointment.UpdatedBy = Id;
             }
             string response = _appointmentManager.Create(appointment);
             if (response == "already")

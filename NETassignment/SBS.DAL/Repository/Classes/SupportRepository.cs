@@ -68,9 +68,9 @@ namespace SBS.DAL.Repository.Classes
         public IEnumerable<Service> GetServices()
         {
             List<Service> servicesReturn = new List<Service>();
-            IEnumerable<Database.Service> manufacturers = _dbContext.Services.ToList();
+            IEnumerable<Database.Service> services = _dbContext.Services.ToList();
 
-            foreach (var service in servicesReturn)
+            foreach (var service in services)
             {
                 Service entity = new Service();
                 entity = autoMapperConfig.DbServiceToService.Map<Service>(service);
@@ -79,6 +79,22 @@ namespace SBS.DAL.Repository.Classes
             }
 
             return servicesReturn;
+        }
+
+        /// <summary>
+        /// Get Mechanic
+        /// </summary>
+        /// <param name="Make">Name of Manufacturer</param>
+        /// <returns>Fist Mechanic of Manufacturer</returns>
+        public Mechanic GetMechanics(string Make)
+        {
+            Database.Mechanic entity = _dbContext.Mechanics.Include("Manufacturer").FirstOrDefault(x => x.Manufacturer.Name == Make);
+            Mechanic mechanic = new Mechanic();
+            mechanic.Id = entity.Id;
+            mechanic.Name = entity.Name;
+            mechanic.MobileNumber = entity.MobileNumber;
+            mechanic.EmailId = entity.EmailId;
+            return mechanic;
         }
     }
 }

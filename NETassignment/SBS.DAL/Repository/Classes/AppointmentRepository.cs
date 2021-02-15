@@ -1,4 +1,5 @@
-﻿using SBS.BusinessEntity;
+﻿using AutoMapper;
+using SBS.BusinessEntity;
 using SBS.DAL.Repository.Interface;
 using System;
 using System.Collections.Generic;
@@ -39,7 +40,7 @@ namespace SBS.DAL.Repository.Classes
                         return "already";
                     }
                     Database.Appointment entity = new Database.Appointment();
-
+                    appoinement.Vehicle = null;
                     entity = autoMapperConfig.AppointmentToDbAppointment.Map<Database.Appointment>(appoinement);
 
                     _dbContext.Appointments.Add(entity);
@@ -90,13 +91,27 @@ namespace SBS.DAL.Repository.Classes
         public IEnumerable<Appointment> GetAppointments()
         {
             List<Appointment> appointmentsReturn = new List<Appointment>();
-            var appointments = _dbContext.Appointments.ToList();
+            var appointments = _dbContext.Appointments.Include("Customer").Include("Dealer").Include("Mechanic").Include("Service").Include("Vehicle").ToList();
+
+            var config = new MapperConfiguration(cfg =>
+            {
+                cfg.CreateMap<Database.Appointment, Appointment>();
+                cfg.CreateMap<Database.Customer, Customer>();
+                cfg.CreateMap<Database.Dealer, Dealer>();
+                cfg.CreateMap<Database.Mechanic, Mechanic>();
+                cfg.CreateMap<Database.Service, Service>();
+                cfg.CreateMap<Database.Vehicle, Vehicle>();
+                cfg.CreateMap<Database.Manufacturer, Manufacturer>();
+            });
+            config.AssertConfigurationIsValid();
+
+            var mapper = config.CreateMapper();
             if (appointments.Any())
             {
                 foreach (var appointment in appointments)
                 {
                     Appointment entity = new Appointment();
-                    entity = autoMapperConfig.DbAppointmentToAppointment.Map<Appointment>(appointment);
+                    entity = mapper.Map<Database.Appointment, Appointment>(appointment);
 
                     appointmentsReturn.Add(entity);
                 }

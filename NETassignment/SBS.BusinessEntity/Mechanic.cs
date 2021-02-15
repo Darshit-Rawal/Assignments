@@ -13,5 +13,7 @@ namespace SBS.BusinessEntity
         public string MobileNumber { get; set; }
         public string EmailId { get; set; }
         public int ManufacturerId { get; set; }
+
+        public virtual Manufacturer Manufacturer { get; set; }
     }
 }

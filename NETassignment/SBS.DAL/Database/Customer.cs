@@ -18,6 +18,7 @@ namespace SBS.DAL.Database
         public Customer()
         {
             this.Appointments = new HashSet<Appointment>();
+            this.Appointments1 = new HashSet<Appointment>();
             this.CutomerDealerMaps = new HashSet<CutomerDealerMap>();
             this.Vehicles = new HashSet<Vehicle>();
         }
@@ -35,6 +36,8 @@ namespace SBS.DAL.Database
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Appointment> Appointments { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<Appointment> Appointments1 { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<CutomerDealerMap> CutomerDealerMaps { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]

@@ -41,18 +41,7 @@ namespace SBS.WebAPI.Controllers
         [Route("Account/Login")]
         public IHttpActionResult Login()
         {
-            //string token = Request.Headers.Authorization.Parameter;
-            //string decodedToken = Encoding.UTF8.GetString(Convert.FromBase64String(token));
-            //string[] tokenArray = decodedToken.Split(':');
-            //string email = tokenArray[0];
-            //string password = tokenArray[1];
-
-            //bool response = _customerManager.Login(email, password);
-            //if (response == false)
-            //{
-            //    return Unauthorized();
-            //}
-            //return Ok();
+            
             return Ok();
         }
     }

@@ -12,5 +12,6 @@ namespace SBS.BLL.Interface
         IEnumerable<Dealer> GetDealers();
         IEnumerable<Manufacturer> GetManufacturers();
         IEnumerable<Service> GetServices();
+        Mechanic GetMechanics(string Make);
     }
 }
