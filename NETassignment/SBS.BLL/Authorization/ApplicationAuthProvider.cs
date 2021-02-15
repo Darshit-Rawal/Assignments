@@ -20,15 +20,16 @@ namespace SBS.BLL.Authorization
         public override async Task GrantResourceOwnerCredentials(OAuthGrantResourceOwnerCredentialsContext context)
         {
             CustomerRepository repo = new CustomerRepository();
-            bool Valid = repo.Login(context.UserName, context.Password);
+            int userId = repo.Login(context.UserName, context.Password);
             //AuthRepository authRepository = new AuthRepository();
             //bool Valid = authRepository.ValidateUser(context.UserName,
             //context.Password);
-            if (Valid)
+            if (userId != 0)
             {
                 var identity = new ClaimsIdentity(context.Options.AuthenticationType);
                 identity.AddClaim(new Claim("Username", context.UserName));
                 identity.AddClaim(new Claim("Password", context.Password));
+                identity.AddClaim(new Claim("UserId", "" + userId, "Login user id"));
                 context.Validated(identity);
             }
             else

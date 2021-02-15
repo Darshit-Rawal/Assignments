@@ -10,6 +10,6 @@ namespace SBS.BLL.Interface
     public interface ICustomerManager
     {
         string Register(Customer customer);
-        bool Login(string email, string password);
+        int Login(string email, string password);
     }
 }

@@ -11,6 +11,7 @@
     <Property Name="VehicleId" Type="int" Nullable="false" />
     <Property Name="AppointmentDate" Type="datetime" Nullable="false" />
     <Property Name="ServiceId" Type="int" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
   </EntityType>
   <EntityType Name="Customers">
     <Key>

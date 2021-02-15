@@ -31,9 +31,14 @@ namespace SBS.DAL.Repository.Classes
             {
                 if (vehicle != null)
                 {
+                    var res = _dbContext.Vehicles.Where(x => x.LicensePlate == vehicle.LicensePlate).FirstOrDefault();
+                    if (res != null)
+                    {
+                        return "already";
+                    }
                     Database.Vehicle entity = new Database.Vehicle();
 
-                    entity = autoMapperConfig.VehicleToDbVehicleMapper.Map<Database.Vehicle>(vehicle);
+                    entity = autoMapperConfig.VehicleToDbVehicle.Map<Database.Vehicle>(vehicle);
 
                     _dbContext.Vehicles.Add(entity);
                     _dbContext.SaveChanges();
@@ -87,7 +92,7 @@ namespace SBS.DAL.Repository.Classes
             foreach (var vehicle in vehicles)
             {
                 Vehicle entity = new Vehicle();
-                entity = autoMapperConfig.DbVehicleToVehicleMapper.Map<Vehicle>(vehicle);
+                entity = autoMapperConfig.DbVehicleToVehicle.Map<Vehicle>(vehicle);
 
                 vehiclesReturn.Add(entity);
             }
@@ -109,7 +114,7 @@ namespace SBS.DAL.Repository.Classes
             foreach (var vehicle in vehicles)
             {
                 Vehicle entity = new Vehicle();
-                entity = autoMapperConfig.DbVehicleToVehicleMapper.Map<Vehicle>(vehicle);
+                entity = autoMapperConfig.DbVehicleToVehicle.Map<Vehicle>(vehicle);
 
                 vehiclesReturn.Add(entity);
             }

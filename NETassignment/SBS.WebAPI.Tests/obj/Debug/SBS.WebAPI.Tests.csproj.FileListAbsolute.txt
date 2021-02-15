@@ -1,0 +1,2 @@
+F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.WebAPI.Tests\obj\Debug\SBS.WebAPI.Tests.csprojAssemblyReference.cache
+F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.WebAPI.Tests\obj\Debug\SBS.WebAPI.Tests.csproj.CoreCompileInputs.cache

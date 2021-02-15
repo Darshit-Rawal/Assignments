@@ -11,6 +11,7 @@
     <Property Name="VehicleId" Type="Int32" Nullable="false" />
     <Property Name="AppointmentDate" Type="DateTime" Nullable="false" Precision="3" />
     <Property Name="ServiceId" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
     <NavigationProperty Name="Customer" Relationship="Self.FK_Appointments_Customers" FromRole="Appointments" ToRole="Customers" />
     <NavigationProperty Name="Dealer" Relationship="Self.FK_Appointments_Dealers" FromRole="Appointments" ToRole="Dealers" />
     <NavigationProperty Name="Mechanic" Relationship="Self.FK_Appointments_Mechanics" FromRole="Appointments" ToRole="Mechanics" />

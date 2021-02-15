@@ -33,3 +33,7 @@ F:\study_matrial\Gateway Projects\Assignments\ServiceBookingSystem\SBS.ViewLayer
 F:\study_matrial\Gateway Projects\Assignments\ServiceBookingSystem\SBS.ViewLayer.Tests\obj\Debug\SBS.ViewLayer.Tests.csproj.CopyComplete
 F:\study_matrial\Gateway Projects\Assignments\ServiceBookingSystem\SBS.ViewLayer.Tests\obj\Debug\SBS.ViewLayer.Tests.dll
 F:\study_matrial\Gateway Projects\Assignments\ServiceBookingSystem\SBS.ViewLayer.Tests\obj\Debug\SBS.ViewLayer.Tests.pdb
+F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.ViewLayer.Tests\obj\Debug\SBS.ViewLayer.Tests.csprojAssemblyReference.cache
+F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.ViewLayer.Tests\obj\Debug\SBS.ViewLayer.Tests.csproj.CoreCompileInputs.cache
+F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.ViewLayer.Tests\obj\Debug\SBS.ViewLayer.Tests.dll
+F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.ViewLayer.Tests\obj\Debug\SBS.ViewLayer.Tests.pdb

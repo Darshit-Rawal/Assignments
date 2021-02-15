@@ -15,5 +15,6 @@ namespace SBS.BusinessEntity
         public int VehicleId { get; set; }
         public System.DateTime AppointmentDate { get; set; }
         public int ServiceId { get; set; }
+        public int Status { get; set; }
     }
 }

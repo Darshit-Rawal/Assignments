@@ -103,9 +103,13 @@
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\autoMapperConfig.cs" />
+    <Compile Include="Repository\Classes\AppointmentRepository.cs" />
     <Compile Include="Repository\Classes\CustomerRepository.cs" />
+    <Compile Include="Repository\Classes\SupportRepository.cs" />
     <Compile Include="Repository\Classes\VehicleRepository.cs" />
+    <Compile Include="Repository\Interface\IAppointmentRepository.cs" />
     <Compile Include="Repository\Interface\ICustomerRepository.cs" />
+    <Compile Include="Repository\Interface\ISupportRepository.cs" />
     <Compile Include="Repository\Interface\IVehicleRepository.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -9,7 +9,7 @@ namespace SBS.DAL.Repository.Interface
 {
     public interface ICustomerRepository
     {
-        bool Login(string email, string password);
+        int Login(string email, string password);
         string Register(Customer customer);
     }
 }

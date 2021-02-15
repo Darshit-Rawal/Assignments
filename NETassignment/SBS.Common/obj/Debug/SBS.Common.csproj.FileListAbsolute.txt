@@ -1,0 +1,5 @@
+F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.Common\bin\Debug\SBS.Common.dll
+F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.Common\bin\Debug\SBS.Common.pdb
+F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.Common\obj\Debug\SBS.Common.csproj.CoreCompileInputs.cache
+F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.Common\obj\Debug\SBS.Common.dll
+F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.Common\obj\Debug\SBS.Common.pdb

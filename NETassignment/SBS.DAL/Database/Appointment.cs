@@ -21,6 +21,7 @@ namespace SBS.DAL.Database
         public int VehicleId { get; set; }
         public System.DateTime AppointmentDate { get; set; }
         public int ServiceId { get; set; }
+        public int Status { get; set; }
     
         public virtual Customer Customer { get; set; }
         public virtual Dealer Dealer { get; set; }
