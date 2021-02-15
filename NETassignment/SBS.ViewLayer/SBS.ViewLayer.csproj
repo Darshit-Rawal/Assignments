@@ -201,7 +201,7 @@
       <Name>SBS.BusinessEntity</Name>
     </ProjectReference>
     <ProjectReference Include="..\SBS.Common\SBS.Common.csproj">
-      <Project>{3adb4d72-a708-41ee-bc2f-e4284bd1e540}</Project>
+      <Project>{eed8ef94-67e3-42d8-a6c4-0c14b54e0ebf}</Project>
       <Name>SBS.Common</Name>
     </ProjectReference>
   </ItemGroup>

@@ -1,7 +1,8 @@
+F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\obj\Debug\SBS.BLL.csprojAssemblyReference.cache
+F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\obj\Debug\SBS.BLL.csproj.CoreCompileInputs.cache
 F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\bin\Debug\SBS.BLL.dll.config
 F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\bin\Debug\SBS.BLL.dll
 F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\bin\Debug\SBS.BLL.pdb
-F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\bin\Debug\Microsoft.Owin.Cors.dll
 F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\bin\Debug\Microsoft.Owin.dll
 F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\bin\Debug\Microsoft.Owin.Security.dll
 F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
@@ -26,7 +27,6 @@ F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\bin\Debug\SB
 F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\bin\Debug\SBS.DAL.pdb
 F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\bin\Debug\SBS.DAL.dll.config
 F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\bin\Debug\Microsoft.Owin.xml
-F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\bin\Debug\Microsoft.Owin.Cors.xml
 F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\bin\Debug\Microsoft.Owin.Security.xml
 F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
 F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\bin\Debug\Newtonsoft.Json.xml
@@ -38,8 +38,6 @@ F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\bin\Debug\Un
 F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\bin\Debug\Unity.Container.pdb
 F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\bin\Debug\AutoMapper.xml
 F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\bin\Debug\EntityFramework.xml
-F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\obj\Debug\SBS.BLL.csprojAssemblyReference.cache
-F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\obj\Debug\SBS.BLL.csproj.CoreCompileInputs.cache
 F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\obj\Debug\SBS.BLL.csproj.CopyComplete
 F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\obj\Debug\SBS.BLL.dll
 F:\study_matrial\Gateway Projects\Assignments\NETassignment\SBS.BLL\obj\Debug\SBS.BLL.pdb

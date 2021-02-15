@@ -1,6 +1,6 @@
 ﻿using SBS.BLL.Interface;
 using SBS.BusinessEntity;
-using SBS.DAL.Repository.Classes;
+using SBS.DAL.Repository.Interface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,9 +11,9 @@ namespace SBS.BLL.Classes
 {
     public class VehicleManager : IVehicleManager
     {
-        private readonly VehicleRepository _vehicleRepository;
+        private readonly IVehicleRepository _vehicleRepository;
 
-        public VehicleManager(VehicleRepository vehicleRepository)
+        public VehicleManager(IVehicleRepository vehicleRepository)
         {
             _vehicleRepository = vehicleRepository;
         }

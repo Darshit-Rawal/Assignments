@@ -304,12 +304,16 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SBS.BLL\SBS.BLL.csproj">
-      <Project>{46a4a38a-5495-437c-bafb-30d1ece32b9d}</Project>
+      <Project>{ee9e6c6e-7cab-4ac6-b22c-886f8d7030c2}</Project>
       <Name>SBS.BLL</Name>
     </ProjectReference>
     <ProjectReference Include="..\SBS.BusinessEntity\SBS.BusinessEntity.csproj">
       <Project>{0f793dca-a6ec-4363-ae33-4589b38102ca}</Project>
       <Name>SBS.BusinessEntity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SBS.Common\SBS.Common.csproj">
+      <Project>{eed8ef94-67e3-42d8-a6c4-0c14b54e0ebf}</Project>
+      <Name>SBS.Common</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

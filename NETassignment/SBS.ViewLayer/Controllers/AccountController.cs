@@ -45,7 +45,7 @@ namespace SBS.ViewLayer.Controllers
         {
             using (var client = new HttpClient())
             {
-                client.BaseAddress = new Uri("http://localhost:10020/Account/Register");
+                client.BaseAddress = new Uri("http://localhost:9622/Account/Register");
 
                 var postTask = client.PostAsJsonAsync<Customer>("Register", customer);
                 postTask.Wait();
@@ -68,7 +68,7 @@ namespace SBS.ViewLayer.Controllers
         {
             using (var client = new HttpClient())
             {
-                client.BaseAddress = new Uri("http://localhost:10020/token");
+                client.BaseAddress = new Uri("http://localhost:9622/token");
                 client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/x-www-form-urlencoded"));
                 client.DefaultRequestHeaders.Accept.Clear();
 
