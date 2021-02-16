@@ -88,6 +88,43 @@ namespace SBS.DAL.Repository.Classes
         /// Get All Appointments
         /// </summary>
         /// <returns>List of Appointments</returns>
+        public IEnumerable<Appointment> GetAppointments(int customerId)
+        {
+            List<Appointment> appointmentsReturn = new List<Appointment>();
+            var appointments = _dbContext.Appointments.Include("Customer").Include("Dealer").Include("Mechanic").Include("Service").Include("Vehicle").Where(x => x.CustomerId == customerId).ToList();
+
+            var config = new MapperConfiguration(cfg =>
+            {
+                cfg.CreateMap<Database.Appointment, Appointment>();
+                cfg.CreateMap<Database.Customer, Customer>();
+                cfg.CreateMap<Database.Dealer, Dealer>();
+                cfg.CreateMap<Database.Mechanic, Mechanic>();
+                cfg.CreateMap<Database.Service, Service>();
+                cfg.CreateMap<Database.Vehicle, Vehicle>();
+                cfg.CreateMap<Database.Manufacturer, Manufacturer>();
+            });
+            config.AssertConfigurationIsValid();
+
+            var mapper = config.CreateMapper();
+            if (appointments.Any())
+            {
+                foreach (var appointment in appointments)
+                {
+                    Appointment entity = new Appointment();
+                    entity = mapper.Map<Database.Appointment, Appointment>(appointment);
+
+                    appointmentsReturn.Add(entity);
+                }
+                return appointmentsReturn;
+            }
+            return new List<Appointment>();
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="customerId"></param>
+        /// <returns></returns>
         public IEnumerable<Appointment> GetAppointments()
         {
             List<Appointment> appointmentsReturn = new List<Appointment>();
@@ -120,6 +157,7 @@ namespace SBS.DAL.Repository.Classes
             return new List<Appointment>();
         }
 
+
         /// <summary>
         /// Get Filtered list of Appointments
         /// </summary>
@@ -143,6 +181,39 @@ namespace SBS.DAL.Repository.Classes
                 return appointmentsReturn;
             }
             return new List<Appointment>();
+        }
+
+        /// <summary>
+        /// Get Appointment By Id
+        /// </summary>
+        /// <param name="Id">Id of appointment</param>
+        /// <returns>Appointment</returns>
+        public Appointment GetAppointment(int Id)
+        {
+            Appointment appointment = null;
+            Database.Appointment entity = _dbContext.Appointments.Include("Customer").Include("Dealer").Include("Mechanic").Include("Service").Include("Vehicle").FirstOrDefault(x => x.Id == Id);
+            var config = new MapperConfiguration(cfg =>
+            {
+                cfg.CreateMap<Database.Appointment, Appointment>();
+                cfg.CreateMap<Database.Customer, Customer>();
+                cfg.CreateMap<Database.Dealer, Dealer>();
+                cfg.CreateMap<Database.Mechanic, Mechanic>();
+                cfg.CreateMap<Database.Service, Service>();
+                cfg.CreateMap<Database.Vehicle, Vehicle>();
+                cfg.CreateMap<Database.Manufacturer, Manufacturer>();
+            });
+            config.AssertConfigurationIsValid();
+
+            var mapper = config.CreateMapper();
+            if (entity != null)
+            {
+                appointment = mapper.Map<Database.Appointment, Appointment>(entity);
+            }
+            else
+            {
+                appointment = new Appointment();
+            }
+            return appointment;
         }
 
         /// <summary>

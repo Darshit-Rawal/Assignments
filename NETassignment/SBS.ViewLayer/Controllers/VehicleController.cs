@@ -31,7 +31,7 @@ namespace SBS.ViewLayer.Controllers
                 client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
                 client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", Session["token"].ToString());
 
-                var response = client.GetAsync("vehicle/Get").Result;
+                var response = client.GetAsync("vehicle/GetById").Result;
 
                 if (response.IsSuccessStatusCode)
                 {

@@ -49,6 +49,13 @@ namespace SBS.WebAPI.Controllers
         [Route("Update")]
         public IHttpActionResult Update(Appointment appointment)
         {
+            if (appointment.CustomerId == 0)
+            {
+                var identity = (ClaimsIdentity)User.Identity;
+                var Id = int.Parse(identity.Claims.FirstOrDefault(c => c.Type == "UserId").Value);
+                appointment.CustomerId = Id;
+                appointment.UpdatedBy = Id;
+            }
             string response = _appointmentManager.Update(appointment);
             if (response != "Updated")
             {
@@ -88,6 +95,21 @@ namespace SBS.WebAPI.Controllers
         [Route("Get")]
         public IHttpActionResult Get()
         {
+            var identity = (ClaimsIdentity)User.Identity;
+            int customerId = int.Parse(identity.Claims.FirstOrDefault(c => c.Type == "UserId").Value);
+            var response = _appointmentManager.GetAppointments(customerId);
+            if (response == null)
+            {
+                return InternalServerError();
+            }
+            return Ok(response);
+        }
+
+        [HttpGet]
+        [Authorize]
+        [Route("GetAll")]
+        public IHttpActionResult GetAll()
+        {
             var response = _appointmentManager.GetAppointments();
             if (response == null)
             {
@@ -102,6 +124,19 @@ namespace SBS.WebAPI.Controllers
         public IHttpActionResult GetFilter([FromBody]DateTime startDate, [FromBody]DateTime endDate)
         {
             var response = _appointmentManager.GetAppointments(startDate, endDate);
+            if (response == null)
+            {
+                return InternalServerError();
+            }
+            return Ok(response);
+        }
+
+        [HttpGet]
+        [Authorize]
+        [Route("Get/{id}")]
+        public IHttpActionResult Get(int id)
+        {
+            var response = _appointmentManager.GetAppointment(id);
             if (response == null)
             {
                 return InternalServerError();

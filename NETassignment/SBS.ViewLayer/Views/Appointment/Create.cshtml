@@ -1,10 +1,27 @@
 ﻿@model SBS.BusinessEntity.Appointment
 
+@using SBS.BusinessEntity;
 @{
+    string method = "Create";
     string ValueToEdit = ViewBag.editProductCategory;
+    Appointment appointment = ViewData.Model;
 }
 
-@using (Html.BeginForm())
+@if (appointment != null)
+{
+    method = "Update";
+}
+
+@if (appointment == null)
+{
+    appointment = new Appointment();
+    appointment.Dealer = new Dealer();
+    appointment.Service = new Service();
+    appointment.Vehicle = new Vehicle();
+}
+
+
+@using (Html.BeginForm(method, "Appointment", FormMethod.Post))
 {
     @Html.AntiForgeryToken()
 
@@ -33,7 +50,7 @@
                 <select id="DealerId" name="DealerId" class="form-control">
                     @foreach (SelectListItem option in ViewBag.dealers)
                     {
-                        <option value="@option.Text" @(option.Text == ValueToEdit ? "selected='selected'" : "")>@option.Text</option>
+                        <option value="@option.Text" @(option.Text == appointment.Dealer.Name ? "selected='selected'" : "")>@option.Text</option>
                     }
                 </select>
                 @Html.ValidationMessageFor(model => model.DealerId, "", new { @class = "text-danger" })
@@ -41,12 +58,12 @@
         </div>
 
         @*<div class="form-group">
-            @Html.LabelFor(model => model.MachanicId, htmlAttributes: new { @class = "control-label col-md-2" })
-            <div class="col-md-10">
-                @Html.EditorFor(model => model.MachanicId, new { htmlAttributes = new { @class = "form-control" } })
-                @Html.ValidationMessageFor(model => model.MachanicId, "", new { @class = "text-danger" })
-            </div>
-        </div>*@
+                @Html.LabelFor(model => model.MachanicId, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.MachanicId, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.MachanicId, "", new { @class = "text-danger" })
+                </div>
+            </div>*@
 
         @*<div class="form-group">
                 @Html.LabelFor(model => model.VehicleId, htmlAttributes: new { @class = "control-label col-md-2" })
@@ -61,7 +78,7 @@
                 <select id="VehicleId" name="VehicleId" class="form-control">
                     @foreach (SelectListItem option in ViewBag.vehicles)
                     {
-                        <option value="@option.Text" @(option.Text == ValueToEdit ? "selected='selected'" : "")>@option.Text</option>
+                        <option value="@option.Text" @(option.Text == appointment.Vehicle.LicensePlate ? "selected='selected'" : "")>@option.Text</option>
                     }
                 </select>
                 @Html.ValidationMessageFor(model => model.VehicleId, "", new { @class = "text-danger" })
@@ -71,7 +88,7 @@
         <div class="form-group">
             @Html.LabelFor(model => model.AppointmentDate, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.AppointmentDate, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.EditorFor(model => model.AppointmentDate, new { htmlAttributes = new { @class = "form-control", @Value = appointment.AppointmentDate } })
                 @Html.ValidationMessageFor(model => model.AppointmentDate, "", new { @class = "text-danger" })
             </div>
         </div>
@@ -89,20 +106,20 @@
                 <select id="ServiceId" name="ServiceId" class="form-control">
                     @foreach (SelectListItem option in ViewBag.services)
                     {
-                        <option value="@option.Text" @(option.Text == ValueToEdit ? "selected='selected'" : "")>@option.Text</option>
+                        <option value="@option.Text" @(option.Text == appointment.Service.Name ? "selected='selected'" : "")>@option.Text</option>
                     }
                 </select>
                 @Html.ValidationMessageFor(model => model.ServiceId, "", new { @class = "text-danger" })
             </div>
         </div>
 
-        <div class="form-group">
-            @Html.LabelFor(model => model.Status, htmlAttributes: new { @class = "control-label col-md-2" })
-            <div class="col-md-10">
-                @Html.EditorFor(model => model.Status, new { htmlAttributes = new { @class = "form-control" } })
-                @Html.ValidationMessageFor(model => model.Status, "", new { @class = "text-danger" })
-            </div>
-        </div>
+        @*<div class="form-group">
+                @Html.LabelFor(model => model.Status, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Status, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Status, "", new { @class = "text-danger" })
+                </div>
+            </div>*@
 
         <div class="form-group">
             <div class="col-md-offset-2 col-md-10">

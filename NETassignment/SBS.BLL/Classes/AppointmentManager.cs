@@ -31,6 +31,11 @@ namespace SBS.BLL.Classes
             return _appointmentRepository.Delete(appointmentId);
         }
 
+        public IEnumerable<Appointment> GetAppointments(int customerId)
+        {
+            return _appointmentRepository.GetAppointments(customerId);
+        }
+
         public IEnumerable<Appointment> GetAppointments()
         {
             return _appointmentRepository.GetAppointments();
@@ -43,6 +48,8 @@ namespace SBS.BLL.Classes
 
         public string Update(Appointment appointment)
         {
+            SupportRepository support = new SupportRepository();
+            appointment.MachanicId = support.GetMechanics(appointment.Vehicle.Manufacturer.Name).Id;
             return _appointmentRepository.Update(appointment);
         }
 
@@ -50,5 +57,11 @@ namespace SBS.BLL.Classes
         {
             return _appointmentRepository.UpdateStatus(appointmentId, status);
         }
+
+        public Appointment GetAppointment(int Id)
+        {
+            return _appointmentRepository.GetAppointment(Id);
+        }
+
     }
 }
