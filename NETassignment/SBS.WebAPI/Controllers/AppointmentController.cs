@@ -77,13 +77,13 @@ namespace SBS.WebAPI.Controllers
             return Ok();
         }
 
-        [HttpDelete]
+        [HttpGet]
         [Authorize]
         [Route("Delete/{id}")]
         public IHttpActionResult Delete([FromUri]int id)
         {
             string response = _appointmentManager.Delete(id);
-            if (response != "Deleted")
+            if (response != "deleted")
             {
                 return InternalServerError();
             }

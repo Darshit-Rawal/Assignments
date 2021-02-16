@@ -190,6 +190,7 @@ namespace SBS.ViewLayer.Controllers
         }
 
         [HttpPost]
+        [Route("Update")]
         public ActionResult Update(Appointment appointment)
         {
             IEnumerable<Service> services = null;
@@ -247,5 +248,32 @@ namespace SBS.ViewLayer.Controllers
             }
             return RedirectToAction("Index", "Appointment");
         }
+
+        [HttpGet]
+        [Route("Delete/{id}")]
+        public ActionResult Delete(int id)
+        {
+            using (var client = new HttpClient())
+            {
+                client.BaseAddress = new Uri("http://localhost:9622/");
+                client.DefaultRequestHeaders.Clear();
+                client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+                client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", Session["token"].ToString());
+
+                var post = client.GetAsync("Appointment/Delete/" + id).Result;
+
+                if (post.IsSuccessStatusCode)
+                {
+                    Debug.WriteLine("Vehicle Updated With Id: " + id);
+                    return RedirectToAction("Index", "Appointment");
+                }
+                else
+                {
+                    return RedirectToAction("Index", "Home");
+                }
+            }
+            
+        }
+        
     }
 }

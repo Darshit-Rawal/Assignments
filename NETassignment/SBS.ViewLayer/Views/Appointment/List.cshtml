@@ -56,12 +56,12 @@
             <td>
                 <button class="btn btn-primary btn-lg" id="@item.Id" onclick="myFunc(this.id);">
                     Update
-                @*@item.Id
-                    @{ 
-                        a = item.Id;
-                    }*@
                 </button> |
-                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                @*<button class="btn btn-primary btn-lg" id="@item.Id" onclick="myFuncDelete(this.id);">
+                    Update
+                </button>*@
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id }, htmlAttributes: new { @class = "btn btn-primary btn-lg"})
+
             </td>
         </tr>
 
@@ -76,18 +76,37 @@
 <script src="http://ajax.aspnetcdn.com/ajax/jquery.ui/1.8.9/jquery-ui.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-    @*$("#update").click(function (e) {
-        console.log("clicked");
-        console.log(e);
-        $.get('@Url.Action("Update","Appointment", new { id = a })', {}, function (response) {
-            $("#dynamic-modal").html(response);
-        });
-    });*@
-
     function myFunc(id) {
         $.get('/Appointment/Update/'+id, { }, function (response) {
             $("#dynamic-modal").html(response);
         });
     }
+
+    //function myFuncDelete(id) {
+    //    $.get('/Appointment/Delete/' +id, {}, function (response) {
+    //        //$("#dynamic-modal").html(response);
+    //        window.location = "/Appointment/Index"
+    //    });
+    //}
+
+
+    //function myFuncDelete(id) {
+    //    e.preventDefault();
+    //    $.ajax({
+    //        type: "DELETE",
+    //        dataType: "json",
+    //        data: JSON.stringify({ id: id }),
+    //        url: '/Appointment/Delete',
+    //        contentType: 'application/json; charset=utf-8',
+    //        success: function (data) {
+    //            if (data) {
+    //                window.location = "/Appointment/Index";
+    //            }
+    //        },
+    //        error: function (erro) {
+    //            console.debug(erro);
+    //        }
+    //    });
+    //}
     
 </script>

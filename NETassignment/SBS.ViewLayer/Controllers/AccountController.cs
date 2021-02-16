@@ -100,6 +100,7 @@ namespace SBS.ViewLayer.Controllers
             return RedirectToAction("Login");
         }
 
+
         private class Token
         {
             [JsonProperty("access_token")]
