@@ -30,7 +30,7 @@ namespace SBS.WebAPI.Controllers
                 var identity = (ClaimsIdentity)User.Identity;
                 var Id = int.Parse(identity.Claims.FirstOrDefault(c => c.Type == "UserId").Value);
                 appointment.CustomerId = Id;
-                appointment.UpdatedBy = Id;
+                //appointment.UpdatedBy = Id;
             }
             string response = _appointmentManager.Create(appointment);
             if (response == "already")
@@ -64,9 +64,8 @@ namespace SBS.WebAPI.Controllers
             return Ok();
         }
 
-        [HttpPut]
-        [Authorize]
-        [Route("UpdateStatus")]
+        [HttpGet]
+        [Route("UpdateStatus/{id}/{status}")]
         public IHttpActionResult UpdateStatus(int appointmentId, bool status)
         {
             string response = _appointmentManager.UpdateStatus(appointmentId, status);

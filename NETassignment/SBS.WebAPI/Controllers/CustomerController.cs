@@ -44,5 +44,17 @@ namespace SBS.WebAPI.Controllers
             
             return Ok();
         }
+
+        [HttpGet]
+        [Route("Customer/Get")]
+        public IHttpActionResult GetCustomers()
+        {
+            var response = _customerManager.GetCustomers();
+            if (response == null)
+            {
+                return InternalServerError();
+            }
+            return Ok(response);
+        }
     }
 }

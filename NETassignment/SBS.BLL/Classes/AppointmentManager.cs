@@ -23,6 +23,7 @@ namespace SBS.BLL.Classes
         {
             SupportRepository support = new SupportRepository();
             appoinement.MachanicId = support.GetMechanics(appoinement.Vehicle.Manufacturer.Name).Id;
+            appoinement.UpdatedBy = appoinement.CustomerId;
             return _appointmentRepository.Create(appoinement);
         }
 

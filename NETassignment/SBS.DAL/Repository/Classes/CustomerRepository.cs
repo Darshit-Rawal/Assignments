@@ -75,6 +75,35 @@ namespace SBS.DAL.Repository.Classes
             }
         }
 
+
+        /// <summary>
+        /// Get all Customers
+        /// </summary>
+        /// <returns>List Of Customer</returns>
+        public IEnumerable<Customer> GetCustomers()
+        {
+            List<Customer> customersReturn = new List<Customer>();
+            IEnumerable<Database.Customer> customers = _dbContext.Customers.ToList();
+
+            var config = new MapperConfiguration(cfg =>
+            {
+                cfg.CreateMap<Database.Customer, Customer>();
+            });
+            config.AssertConfigurationIsValid();
+
+            var mapper = config.CreateMapper();
+
+            foreach (var customer in customers)
+            {
+                Customer entity = new Customer();
+                entity = mapper.Map<Database.Customer, Customer>(customer);
+
+                customersReturn.Add(entity);
+            }
+
+            return customersReturn;
+        }
+
        
     }
 }

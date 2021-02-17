@@ -45,6 +45,34 @@ namespace SBS.ViewLayer.Controllers
             return View(vehicles);
         }
 
+
+        [HttpGet]
+        [Route("GetVehiclesList/{id}")]
+        public JsonResult GetVehiclesList(int id)
+        {
+            IEnumerable<Vehicle> vehicles = null;
+            using (var client = new HttpClient())
+            {
+                client.BaseAddress = new Uri("http://localhost:9622/");
+                //client.DefaultRequestHeaders.Clear();
+                //client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+                //client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", Session["token"].ToString());
+
+                var response = client.GetAsync("Vehicle/GetByCustomer/"+id).Result;
+
+                if (response.IsSuccessStatusCode)
+                {
+                    vehicles = response.Content.ReadAsAsync<IList<Vehicle>>().Result;
+                }
+                else
+                {
+                    vehicles = Enumerable.Empty<Vehicle>();
+                }
+            }
+            return Json(vehicles, JsonRequestBehavior.AllowGet);
+        }
+
+
         [HttpGet]
         [Route("Create")]
         public ActionResult Create()
@@ -115,6 +143,6 @@ namespace SBS.ViewLayer.Controllers
             }
             return RedirectToAction("Index", "Vehicle");
         }
-
+        
     }
 }   

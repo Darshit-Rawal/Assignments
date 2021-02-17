@@ -93,5 +93,17 @@ namespace SBS.WebAPI.Controllers
             }
             return Ok(response);
         }
+
+        [HttpGet]
+        [Route("GetByCustomer/{id}")]
+        public IHttpActionResult GetVehiclesByCustomer(int id)
+        {
+            var response = _vehicleManager.GetVehicles(id);
+            if (response == null)
+            {
+                return InternalServerError();
+            }
+            return Ok(response);
+        }
     }
 }

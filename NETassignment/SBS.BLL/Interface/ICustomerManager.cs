@@ -11,5 +11,6 @@ namespace SBS.BLL.Interface
     {
         string Register(Customer customer);
         int Login(string email, string password);
+        IEnumerable<Customer> GetCustomers();
     }
 }

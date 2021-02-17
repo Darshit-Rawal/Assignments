@@ -1,13 +1,13 @@
 ﻿@model IEnumerable<SBS.BusinessEntity.Appointment>
 
-<p>
-    @*@Html.ActionLink("Create New", "Create")*@
-</p>
+@*<p>
+        @Html.ActionLink("Create New", "Create")
+    </p>*@
 <table class="table">
     <tr>
-        @*<th>
+        <th>
             @Html.DisplayNameFor(model => model.CustomerId)
-        </th>*@
+        </th>
         <th>
             @Html.DisplayNameFor(model => model.DealerId)
         </th>
@@ -26,15 +26,18 @@
         <th>
             @Html.DisplayNameFor(model => model.Status)
         </th>
+        @*<th>
+                @Html.DisplayNameFor(model => model.UpdatedBy)
+            </th>*@
         <th></th>
     </tr>
 
     @foreach (var item in Model)
     {
         <tr>
-            @*<td>
+            <td>
                 @Html.DisplayFor(modelItem => item.Customer.Name)
-            </td>*@
+            </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Dealer.Name)
             </td>
@@ -64,19 +67,21 @@
                     <p style="color: red;font-weight: bold">Rejected</p>
                 }
             </td>
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.UpdatedBy)
+                </td>*@
             <td>
+                @*@Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id=item.Id })*@
                 <button class="btn btn-primary" id="@item.Id" onclick="myFunc(this.id);">
-                    Update
+                    Approve
                 </button> |
-                @Html.ActionLink("Delete", "Delete", new { id = item.Id }, htmlAttributes: new { @class = "btn btn-danger" })
 
             </td>
         </tr>
-
     }
 
 </table>
-
 
 <div id="dynamic-modal">
 </div>
@@ -85,36 +90,14 @@
 
 <script type="text/javascript">
     function myFunc(id) {
-        $.get('/Appointment/Update/'+id, { }, function (response) {
-            $("#dynamic-modal").html(response);
+        //debugger;
+        $.ajax({
+            url: "Admin/UpdateStatus/" + id + "/" + 1,
+            dataType: "JSON",
+            type: "GET",
+            success: function () {
+                window.location = "Admin/Index";
+            }
         });
     }
-
-    //function myFuncDelete(id) {
-    //    $.get('/Appointment/Delete/' +id, {}, function (response) {
-    //        //$("#dynamic-modal").html(response);
-    //        window.location = "/Appointment/Index"
-    //    });
-    //}
-
-
-    //function myFuncDelete(id) {
-    //    e.preventDefault();
-    //    $.ajax({
-    //        type: "DELETE",
-    //        dataType: "json",
-    //        data: JSON.stringify({ id: id }),
-    //        url: '/Appointment/Delete',
-    //        contentType: 'application/json; charset=utf-8',
-    //        success: function (data) {
-    //            if (data) {
-    //                window.location = "/Appointment/Index";
-    //            }
-    //        },
-    //        error: function (erro) {
-    //            console.debug(erro);
-    //        }
-    //    });
-    //}
-    
 </script>

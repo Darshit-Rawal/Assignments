@@ -2,6 +2,7 @@
 @{
     ViewBag.Title = "Index";
 }
+
 <br />
 
 <button class="btn btn-success" id="Create">
@@ -12,7 +13,7 @@
 <br />
 
 @{
-    Html.RenderAction("List", "Appointment");
+    Html.RenderAction("List", "Admin");
 }
 
 
@@ -24,8 +25,9 @@
 
 <script type="text/javascript">
     $("#Create").click(function (e) {
-        $.get('@Url.Action("Create","Appointment")', {}, function (response) {
+        $.get('@Url.Action("Create","Admin")', {}, function (response) {
             $("#dynamic-modal").html(response);
         });
     });
 </script>
+

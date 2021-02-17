@@ -29,5 +29,10 @@ namespace SBS.BLL.Classes
             customer.Password = Convert.ToBase64String(PassowrdEncrypt.Encrypt(customer.Password));
             return _customerRepository.Register(customer);
         }
+
+        public IEnumerable<Customer> GetCustomers()
+        {
+            return _customerRepository.GetCustomers();
+        }
     }
 }

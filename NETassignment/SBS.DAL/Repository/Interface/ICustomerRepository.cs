@@ -11,5 +11,6 @@ namespace SBS.DAL.Repository.Interface
     {
         int Login(string email, string password);
         string Register(Customer customer);
+        IEnumerable<Customer> GetCustomers();
     }
 }
