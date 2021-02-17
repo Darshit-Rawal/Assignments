@@ -65,11 +65,16 @@ namespace SBS.WebAPI.Controllers
         }
 
         [HttpGet]
-        [Route("UpdateStatus/{id}/{status}")]
-        public IHttpActionResult UpdateStatus(int appointmentId, bool status)
+        [Route("UpdateStatus")]
+        public IHttpActionResult UpdateStatus()
         {
-            string response = _appointmentManager.UpdateStatus(appointmentId, status);
-            if (response != "Updated")
+            //int appointmentId = int.Parse(Request.);
+            //int appointmentId = int.Parse(Request.RequestUri.ParseQueryString());
+            var data = Request.RequestUri.ParseQueryString();
+            int Id = int.Parse(data["Id"]);
+            bool status = bool.Parse(data["status"]);
+            string response = _appointmentManager.UpdateStatus(Id, status);
+            if (response != "updated")
             {
                 return InternalServerError();
             }

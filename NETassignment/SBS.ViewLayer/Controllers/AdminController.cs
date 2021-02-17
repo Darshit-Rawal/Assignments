@@ -156,9 +156,11 @@ namespace SBS.ViewLayer.Controllers
         }
 
         [HttpGet]
-        [Route("UpdateStatus/{id}/{status}")]
-        public JsonResult UpdateStatus(int id, int status)
+        [Route("UpdateStatus")]
+        public JsonResult UpdateStatus()
         {
+            int id = int.Parse(Request.QueryString["id"]);
+            int status = int.Parse(Request.QueryString["status"]);
             bool statusArg = false;
             if (status == 1)
             {
@@ -169,7 +171,7 @@ namespace SBS.ViewLayer.Controllers
             {
                 client.BaseAddress = new Uri("http://localhost:9622/");
                 
-                var response = client.GetAsync("Appointment/UpdateStatus/"+id+"/"+statusArg).Result;
+                var response = client.GetAsync("Appointment/UpdateStatus?id="+id+"&status="+statusArg).Result;
 
                 if (response.IsSuccessStatusCode)
                 {

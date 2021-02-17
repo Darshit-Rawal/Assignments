@@ -72,10 +72,13 @@
                 </td>*@
             <td>
                 @*@Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
-                    @Html.ActionLink("Delete", "Delete", new { id=item.Id })*@
-                <button class="btn btn-primary" id="@item.Id" onclick="myFunc(this.id);">
+        @Html.ActionLink("Delete", "Delete", new { id=item.Id })*@
+                <button class="btn btn-success" id="@item.Id" onclick="myFunc(this.id);">
                     Approve
                 </button> |
+                <button class="btn btn-danger" id="@item.Id" onclick="myFuncReject(this.id);">
+                    Reject
+                </button>
 
             </td>
         </tr>
@@ -91,12 +94,30 @@
 <script type="text/javascript">
     function myFunc(id) {
         //debugger;
+        //alert("Hi");
         $.ajax({
-            url: "Admin/UpdateStatus/" + id + "/" + 1,
+            //console.log("/Admin/UpdateStatus/"+id+ "/" + 1);
+            url: "/Admin/UpdateStatus?id=" + id + "&status=" + 1,
             dataType: "JSON",
+            contentType: "application/json; charset=utf-8",
             type: "GET",
             success: function () {
-                window.location = "Admin/Index";
+                window.location = "Admin";
+            }
+        });
+    }
+
+    function myFuncReject(id) {
+        //debugger;
+        //alert("Hi");
+        $.ajax({
+            //console.log("/Admin/UpdateStatus/"+id+ "/" + 1);
+            url: "/Admin/UpdateStatus?id=" + id + "&status=" + -1,
+            dataType: "JSON",
+            contentType: "application/json; charset=utf-8",
+            type: "GET",
+            success: function () {
+                window.location = "Admin";
             }
         });
     }

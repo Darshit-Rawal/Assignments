@@ -266,13 +266,16 @@ namespace SBS.DAL.Repository.Classes
                     if (status == true)
                     {
                         appointment.Status = 1;
+                        _dbContext.SaveChanges();
                         return "updated";
                     }
                     else
                     {
                         appointment.Status = -1;
+                        _dbContext.SaveChanges();
                         return "updated";
                     }
+                    
                 }
                 return "null";
                 
