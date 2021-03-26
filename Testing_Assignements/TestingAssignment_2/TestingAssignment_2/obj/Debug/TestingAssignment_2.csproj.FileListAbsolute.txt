@@ -1,0 +1,7 @@
+F:\study_matrial\Gateway Projects\Assignments\Testing_Assignements\TestingAssignment_2\TestingAssignment_2\bin\Debug\TestingAssignment_2.exe.config
+F:\study_matrial\Gateway Projects\Assignments\Testing_Assignements\TestingAssignment_2\TestingAssignment_2\bin\Debug\TestingAssignment_2.exe
+F:\study_matrial\Gateway Projects\Assignments\Testing_Assignements\TestingAssignment_2\TestingAssignment_2\bin\Debug\TestingAssignment_2.pdb
+F:\study_matrial\Gateway Projects\Assignments\Testing_Assignements\TestingAssignment_2\TestingAssignment_2\obj\Debug\TestingAssignment_2.csprojAssemblyReference.cache
+F:\study_matrial\Gateway Projects\Assignments\Testing_Assignements\TestingAssignment_2\TestingAssignment_2\obj\Debug\TestingAssignment_2.csproj.CoreCompileInputs.cache
+F:\study_matrial\Gateway Projects\Assignments\Testing_Assignements\TestingAssignment_2\TestingAssignment_2\obj\Debug\TestingAssignment_2.exe
+F:\study_matrial\Gateway Projects\Assignments\Testing_Assignements\TestingAssignment_2\TestingAssignment_2\obj\Debug\TestingAssignment_2.pdb

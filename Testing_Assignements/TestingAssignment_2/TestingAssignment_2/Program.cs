@@ -13,7 +13,7 @@ namespace TestingAssignment_2
             string inputString = Console.ReadLine();
 
             // Case 1
-            Console.WriteLine(inputString.UpperToLower());
+            Console.WriteLine(inputString.UppertoLower());
 
             // Case 2
             Console.WriteLine(inputString.TitleCase());
@@ -38,6 +38,8 @@ namespace TestingAssignment_2
 
             // Case 9
             Console.WriteLine(inputString.StringToInt());
+
+            Console.ReadLine();
         }
     }
 }

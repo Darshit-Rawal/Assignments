@@ -17,21 +17,20 @@ namespace TestingAssignment_2
         /// </summary>
         /// <param name="inputString">extension method</param>
         /// <returns>converted string</returns>
-        public static string UpperToLower(this string inputString)
+        public static string UppertoLower(this string inputString)
         {
-            foreach (var chr in inputString)
+            string output = "";
+            int ascii = 0;
+            foreach (var ch in inputString)
             {
-                ascii = (int)chr;
-                if (ascii >= 65 || ascii <= 90)
-                {
+                ascii = (int)ch;
+                if (ascii >= 65 && ascii <= 90)
                     ascii += 32;
-                }
-                else
-                {
+                else if (ascii >= 97 && ascii <= 122)
                     ascii -= 32;
-                }
                 output += (char)ascii;
             }
+
             return output;
         }
 
@@ -130,7 +129,7 @@ namespace TestingAssignment_2
         /// <returns>converted string</returns>
         public static string RemoveLastChar(this string inputString)
         {
-            return inputString.Substring(inputString.Length - 1);
+            return inputString.Substring(0, inputString.Length - 1);
         }
 
         /// <summary>

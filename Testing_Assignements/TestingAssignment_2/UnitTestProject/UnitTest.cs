@@ -22,7 +22,7 @@ namespace UnitTestProject
             Expected = "uNIt tESt";
         
             // Act
-            string output = inputString.UpperToLower();
+            string output = inputString.UppertoLower();
 
             // Assert
             Assert.AreEqual(Expected, output);
@@ -49,7 +49,7 @@ namespace UnitTestProject
         {
             // Arrange 
             inputString = "UniT TesT";
-            Expected = "unit test";
+            Expected = "Success";
 
             // Act
             string output = inputString.CheckLower();
