@@ -7,112 +7,158 @@ using System.Threading.Tasks;
 
 namespace TestingAssignment_2
 {
-    public class ExtensionMethods
+    public static class ExtensionMethods
     {
-        public static string StringConvert(string inputString, string opertaion)
+        static int ascii = 0;
+        static string output = "";
+
+        /// <summary>
+        /// Convert Uppercase to Lower
+        /// </summary>
+        /// <param name="inputString">extension method</param>
+        /// <returns>converted string</returns>
+        public static string UpperToLower(this string inputString)
         {
-            int ascii = 0;
-            string output = "";
-            if (opertaion.Equals("UpperToLower"))
+            foreach (var chr in inputString)
             {
-                foreach (var chr in inputString)
+                ascii = (int)chr;
+                if (ascii >= 65 || ascii <= 90)
                 {
-                    ascii = (int)chr;
-                    if (ascii >= 65 || ascii <= 90)
-                    {
-                        ascii += 32;
-                    }
-                    else
-                    {
-                        ascii -= 32;
-                    }
-                    output += (char)ascii;
+                    ascii += 32;
                 }
-                return output;
-            }
-
-            else if (opertaion.Equals("TitleCase") || opertaion.Equals("Capitalize"))
-            {
-                TextInfo textInfo = new CultureInfo("en-US", false).TextInfo;
-                return textInfo.ToTitleCase(inputString);
-            }
-
-            else if (opertaion.Equals("CheckLower"))
-            {
-                foreach (var item in inputString)
+                else
                 {
-                    ascii = (int)item;
-                    bool status = false;
-                    if (ascii >= 97 && ascii <= 122)
-                    {
-                        status = true;
-                    }
-                    else
-                    {
-                        status = false;
-                    }
-                    if (status)
-                    {
-                        return "Success";
-                    }
+                    ascii -= 32;
                 }
+                output += (char)ascii;
             }
+            return output;
+        }
 
-            else if (opertaion.Equals("CheckUpper"))
+        /// <summary>
+        /// Convert to Titecase
+        /// </summary>
+        /// <param name="inputString">extension method</param>
+        /// <returns>converted string</returns>
+        public static string TitleCase(this string inputString)
+        {
+            TextInfo textInfo = new CultureInfo("en-US", false).TextInfo;
+            return textInfo.ToTitleCase(inputString);
+        }
+
+        public static string Capitalize(this string inputString)
+        {
+            TextInfo textInfo = new CultureInfo("en-US", false).TextInfo;
+            return textInfo.ToTitleCase(inputString);
+        }
+
+        /// <summary>
+        /// Check string for lower
+        /// </summary>
+        /// <param name="inputString">extension method</param>
+        /// <returns>converted string</returns>
+        public static string CheckLower(this string inputString)
+        {
+            foreach (var item in inputString)
             {
-                foreach (var item in inputString)
+                ascii = (int)item;
+                bool status = false;
+                if (ascii >= 97 && ascii <= 122)
                 {
-                    ascii = (int)item;
-                    bool status = false;
-                    if (ascii >= 65 && ascii <= 90)
-                    {
-                        status = true;
-                    }
-                    else
-                    {
-                        status = false;
-                    }
-                    if (status)
-                    {
-                        return "Success";
-                    }
+                    status = true;
                 }
-            }
-
-            else if (opertaion.Equals("CheckforInt"))
-            {
-                try
+                else
                 {
-                    return "" + int.Parse(inputString);
+                    status = false;
                 }
-                catch (Exception)
+                if (status)
                 {
-                    return "null";
-                }
-            }
-
-            else if (opertaion.Equals("RemoveLastChar"))
-            {
-                return inputString.Substring(inputString.Length - 1);
-            }
-
-            else if (opertaion.Equals("WordCount"))
-            {
-                return ""+inputString.Count();
-            }
-
-            else if (opertaion.Equals("StringToInt"))
-            {
-                try
-                {
-                    return "" + int.Parse(inputString);
-                }
-                catch (Exception)
-                {
-                    return "null";
+                    return "Success";
                 }
             }
             return "null";
         }
+
+        /// <summary>
+        /// Check for upper case
+        /// </summary>
+        /// <param name="inputString">extension method</param>
+        /// <returns>converted string</returns>
+        public static string CheckUpper(this string inputString)
+        {
+            foreach (var item in inputString)
+            {
+                ascii = (int)item;
+                bool status = false;
+                if (ascii >= 65 && ascii <= 90)
+                {
+                    status = true;
+                }
+                else
+                {
+                    status = false;
+                }
+                if (status)
+                {
+                    return "Success";
+                }
+            }
+            return "null";
+        }
+
+        /// <summary>
+        /// Check for integer
+        /// </summary>
+        /// <param name="inputString">extension method</param>
+        /// <returns>converted string</returns>
+        public static string CheckforInt(this string inputString)
+        {
+            try
+            {
+                return "" + int.Parse(inputString);
+            }
+            catch (Exception)
+            {
+                return "null";
+            }
+        }
+
+        /// <summary>
+        /// Remove Last Charecter
+        /// </summary>
+        /// <param name="inputString">extension method</param>
+        /// <returns>converted string</returns>
+        public static string RemoveLastChar(this string inputString)
+        {
+            return inputString.Substring(inputString.Length - 1);
+        }
+
+        /// <summary>
+        /// Count the word
+        /// </summary>
+        /// <param name="inputString">extension method</param>
+        /// <returns>converted string</returns>
+        public static string WordCount(this string inputString)
+        {
+            return "" + inputString.Count();
+        }
+
+        /// <summary>
+        /// String to integer
+        /// </summary>
+        /// <param name="inputString">extension method</param>
+        /// <returns>converted string</returns>
+        public static string StringToInt(this string inputString)
+        {
+            try
+            {
+                return "" + int.Parse(inputString);
+            }
+            catch (Exception)
+            {
+                return "null";
+            }
+        }
+
     }
 }
