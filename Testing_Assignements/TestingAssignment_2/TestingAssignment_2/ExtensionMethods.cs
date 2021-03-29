@@ -17,7 +17,7 @@ namespace TestingAssignment_2
         /// </summary>
         /// <param name="inputString">extension method</param>
         /// <returns>converted string</returns>
-        public static string UppertoLower(this string inputString)
+        public static string InverseCase(this string inputString)
         {
             string output = "";
             int ascii = 0;

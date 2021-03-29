@@ -5,31 +5,32 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TestingAssignment_2;
+using Xunit;
 
 namespace UnitTestProject
 {
-    [TestClass]
     public class UnitTest
     {
         
         string inputString = "";
         string Expected = "";
-        [TestMethod]
-        public void UpperToLower()
+
+        [Fact]
+        public void InverseCase()
         {
             // Arrange 
             inputString = "UniT TesT";
             Expected = "uNIt tESt";
         
             // Act
-            string output = inputString.UppertoLower();
+            string output = inputString.InverseCase();
 
             // Assert
-            Assert.AreEqual(Expected, output);
+            Xunit.Assert.Equal(Expected, output);
 
         }
 
-        [TestMethod]
+        [Fact]
         public void TitleCase()
         {
             // Arrange 
@@ -40,11 +41,11 @@ namespace UnitTestProject
             string output = inputString.TitleCase();
 
             // Assert
-            Assert.AreEqual(Expected, output);
+            Xunit.Assert.Equal(Expected, output);
 
         }
 
-        [TestMethod]
+        [Fact]
         public void CheckLower()
         {
             // Arrange 
@@ -55,11 +56,11 @@ namespace UnitTestProject
             string output = inputString.CheckLower();
 
             // Assert
-            Assert.AreEqual(Expected, output);
+            Xunit.Assert.Equal(Expected, output);
 
         }
 
-        [TestMethod]
+        [Fact]
         public void Capitalize()
         {
             // Arrange 
@@ -70,11 +71,11 @@ namespace UnitTestProject
             string output = inputString.Capitalize();
 
             // Assert
-            Assert.AreEqual(Expected, output);
+            Xunit.Assert.Equal(Expected, output);
 
         }
 
-        [TestMethod]
+        [Fact]
         public void CheckUpper()
         {
             // Arrange 
@@ -85,11 +86,11 @@ namespace UnitTestProject
             string output = inputString.CheckUpper();
 
             // Assert
-            Assert.AreEqual(Expected, output);
+            Xunit.Assert.Equal(Expected, output);
 
         }
 
-        [TestMethod]
+        [Fact]
         public void CheckforInt()
         {
             // Arrange 
@@ -100,11 +101,11 @@ namespace UnitTestProject
             string output = inputString.CheckforInt();
 
             // Assert
-            Assert.AreEqual(Expected, output);
+            Xunit.Assert.Equal(Expected, output);
 
         }
 
-        [TestMethod]
+        [Fact]
         public void RemoveLastChar()
         {
             // Arrange 
@@ -115,11 +116,11 @@ namespace UnitTestProject
             string output = inputString.RemoveLastChar();
 
             // Assert
-            Assert.AreEqual(Expected, output);
+            Xunit.Assert.Equal(Expected, output);
 
         }
 
-        [TestMethod]
+        [Fact]
         public void WordCount()
         {
             // Arrange 
@@ -130,11 +131,11 @@ namespace UnitTestProject
             string output = inputString.WordCount();
 
             // Assert
-            Assert.AreEqual(Expected, output);
+            Xunit.Assert.Equal(Expected, output);
 
         }
 
-        [TestMethod]
+        [Fact]
         public void StringToInt()
         {
             // Arrange 
@@ -145,7 +146,7 @@ namespace UnitTestProject
             string output = inputString.StringToInt();
 
             // Assert
-            Assert.AreEqual(Expected, output);
+            Xunit.Assert.Equal(Expected, output);
 
         }
     }
