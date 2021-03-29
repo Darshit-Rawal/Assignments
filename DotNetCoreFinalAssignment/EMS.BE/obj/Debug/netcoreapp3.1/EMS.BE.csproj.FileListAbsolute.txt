@@ -1,0 +1,9 @@
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.BE\bin\Debug\netcoreapp3.1\EMS.BE.deps.json
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.BE\bin\Debug\netcoreapp3.1\EMS.BE.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.BE\bin\Debug\netcoreapp3.1\EMS.BE.pdb
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.BE\obj\Debug\netcoreapp3.1\EMS.BE.csprojAssemblyReference.cache
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.BE\obj\Debug\netcoreapp3.1\EMS.BE.AssemblyInfoInputs.cache
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.BE\obj\Debug\netcoreapp3.1\EMS.BE.AssemblyInfo.cs
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.BE\obj\Debug\netcoreapp3.1\EMS.BE.csproj.CoreCompileInputs.cache
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.BE\obj\Debug\netcoreapp3.1\EMS.BE.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.BE\obj\Debug\netcoreapp3.1\EMS.BE.pdb

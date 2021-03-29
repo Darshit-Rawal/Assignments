@@ -1,0 +1,26 @@
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.BE.deps.json
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.BE.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.BE.pdb
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.BE.AssemblyInfoInputs.cache
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.BE.AssemblyInfo.cs
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.BE.csproj.CoreCompileInputs.cache
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.BE.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.BE.pdb
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.BE.deps.json
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.BE.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.BE.pdb
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.BE.csprojAssemblyReference.cache
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.BE.AssemblyInfoInputs.cache
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.BE.AssemblyInfo.cs
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.BE.csproj.CoreCompileInputs.cache
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.BE.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.BE.pdb
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.BE.deps.json
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.BE.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.BE.pdb
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.BE.csprojAssemblyReference.cache
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.BE.AssemblyInfoInputs.cache
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.BE.AssemblyInfo.cs
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.BE.csproj.CoreCompileInputs.cache
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.BE.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.BE.pdb

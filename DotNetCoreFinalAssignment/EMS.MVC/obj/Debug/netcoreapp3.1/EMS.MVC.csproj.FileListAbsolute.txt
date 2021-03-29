@@ -1,0 +1,515 @@
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.exe
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.deps.json
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.runtimeconfig.json
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.runtimeconfig.dev.json
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.pdb
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.Views.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.Views.pdb
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.csprojAssemblyReference.cache
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.AssemblyInfoInputs.cache
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.AssemblyInfo.cs
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.csproj.CoreCompileInputs.cache
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.RazorAssemblyInfo.cache
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.RazorAssemblyInfo.cs
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\staticwebassets\EMS.MVC.StaticWebAssets.Manifest.cache
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\staticwebassets\EMS.MVC.StaticWebAssets.xml
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\EMS.MVC.styles.css
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.TagHelpers.input.cache
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.TagHelpers.output.cache
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.RazorCoreGenerate.cache
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.RazorTargetAssemblyInfo.cache
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.RazorTargetAssemblyInfo.cs
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.Views.pdb
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.csproj.CopyComplete
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.pdb
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.genruntimeconfig.cache
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.BE.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.BE.pdb
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.BLL.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.DAL.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.BLL.pdb
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.DAL.pdb
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Empolyee\Index.cshtml.g.cs
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Empolyee\Create.cshtml.g.cs
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Empolyee\Details.cshtml.g.cs
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.exe
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.deps.json
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.runtimeconfig.json
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.runtimeconfig.dev.json
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.pdb
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.Views.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.Views.pdb
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.BE.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.BLL.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.DAL.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.BLL.pdb
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.BE.pdb
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.DAL.pdb
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.csprojAssemblyReference.cache
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.AssemblyInfoInputs.cache
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.AssemblyInfo.cs
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.csproj.CoreCompileInputs.cache
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.RazorAssemblyInfo.cache
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.RazorAssemblyInfo.cs
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\staticwebassets\EMS.MVC.StaticWebAssets.Manifest.cache
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\staticwebassets\EMS.MVC.StaticWebAssets.xml
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\EMS.MVC.styles.css
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.TagHelpers.input.cache
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.TagHelpers.output.cache
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.RazorCoreGenerate.cache
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Empolyee\Create.cshtml.g.cs
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Empolyee\Details.cshtml.g.cs
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Empolyee\Index.cshtml.g.cs
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.RazorTargetAssemblyInfo.cache
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.RazorTargetAssemblyInfo.cs
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.Views.pdb
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.csproj.CopyComplete
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.pdb
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.genruntimeconfig.cache
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Projects\ExampleNew\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\appsettings.json
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.exe
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.deps.json
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.runtimeconfig.json
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.runtimeconfig.dev.json
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.pdb
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.Views.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.MVC.Views.pdb
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Serilog.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.BE.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.BLL.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.DAL.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.BLL.pdb
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.BE.pdb
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\bin\Debug\netcoreapp3.1\EMS.DAL.pdb
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.csprojAssemblyReference.cache
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.AssemblyInfoInputs.cache
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.AssemblyInfo.cs
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.csproj.CoreCompileInputs.cache
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.MvcApplicationPartsAssemblyInfo.cache
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.RazorAssemblyInfo.cache
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.RazorAssemblyInfo.cs
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\staticwebassets\EMS.MVC.StaticWebAssets.Manifest.cache
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\staticwebassets\EMS.MVC.StaticWebAssets.xml
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\EMS.MVC.styles.css
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.TagHelpers.input.cache
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.TagHelpers.output.cache
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.RazorCoreGenerate.cache
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Empolyee\Create.cshtml.g.cs
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Empolyee\Details.cshtml.g.cs
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Empolyee\Index.cshtml.g.cs
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.RazorTargetAssemblyInfo.cache
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.RazorTargetAssemblyInfo.cs
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.Views.pdb
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.csproj.CopyComplete
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.dll
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.pdb
+F:\study_matrial\Gateway Projects\NetCore\NetCoreAssignment\DotNetCoreFinalAssignment\EMS.MVC\obj\Debug\netcoreapp3.1\EMS.MVC.genruntimeconfig.cache

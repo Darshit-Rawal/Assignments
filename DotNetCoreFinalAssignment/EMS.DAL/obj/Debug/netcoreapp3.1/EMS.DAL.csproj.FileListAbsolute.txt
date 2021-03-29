@@ -1,0 +1,9 @@
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.deps.json
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.DAL\bin\Debug\netcoreapp3.1\EMS.DAL.pdb
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.csprojAssemblyReference.cache
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.AssemblyInfoInputs.cache
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.AssemblyInfo.cs
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.csproj.CoreCompileInputs.cache
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.dll
+D:\netCoreProjects\DotNetCoreFinalAssignment\EMS.DAL\obj\Debug\netcoreapp3.1\EMS.DAL.pdb
