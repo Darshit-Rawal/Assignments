@@ -1,0 +1,45 @@
+<div style="padding: 10px; ">
+    <h2>Company Details</h2>
+    <table class="table table-bordered table-striped" style="margin-top: 30px;">
+        <tr>
+            <td>Comapany Name</td>
+            <td>{{ company.name }}</td>
+        </tr>
+        <tr>
+            <td>Company Email</td>
+            <td>{{ company.email }}</td>
+        </tr>
+        <tr>
+            <td>Total Employees</td>
+            <td>{{ company.totalEmployee }}</td>
+        </tr>
+        <tr>
+            <td>Company Address</td>
+            <td>{{ company.address }}</td>
+        </tr>
+        <tr>
+            <td>Is Company Active</td>
+            <td>{{ company.isCompanyActive }}</td>
+        </tr>
+        <tr>
+            <td>Total Branch</td>
+            <td>{{ company.totalEmployee }}</td>
+        </tr>
+        <tr>
+            <td>Branch: </td>
+            <td>
+                <div *ngFor="let branch of company.companyBranch">
+                    <tr>
+                        <td>Branch Name</td>
+                        <td>{{ branch.branchName }}</td>
+                    </tr>
+                    <tr>
+                        <td>Branch address</td>
+                        <td>{{ branch.address }}</td>
+                    </tr>
+                    <hr>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>

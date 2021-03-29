@@ -1,0 +1,88 @@
+{
+  "company": [
+    {
+      "id": 3,
+      "email": "Company3@mail.com",
+      "name": "Company3",
+      "totalEmployee": 50,
+      "address": "Company3 address, Ahmedabad",
+      "isCompanyActive": true,
+      "totalBranch": 2,
+      "companyBranch": [
+        {
+          "branchid": 1,
+          "branchName": "Development",
+          "address": "CH-6"
+        },
+        {
+          "branchid": 2,
+          "branchName": "Production",
+          "address": "CH-7"
+        }
+      ]
+    },
+    {
+      "email": "Company1@mail.com",
+      "name": "Company1",
+      "totalEmployee": 50,
+      "address": "Company1 address, Ahmedabad",
+      "isCompanyActive": true,
+      "companyBranch": [
+        {
+          "branchid": 1,
+          "branchName": "Production",
+          "address": "CH-5"
+        },
+        {
+          "branchid": 2,
+          "branchName": "Development",
+          "address": "Ch-4"
+        }
+      ],
+      "totalBranch": 2,
+      "id": 4
+    },
+    {
+      "email": "darshit123@gmail.com",
+      "name": "Darshit Rawal",
+      "totalEmployee": 50,
+      "address": "Darshit",
+      "isCompanyActive": true,
+      "companyBranch": [
+        {
+          "branchid": 1,
+          "branchName": "Production",
+          "address": "CH-5"
+        },
+        {
+          "branchid": 2,
+          "branchName": "Development",
+          "address": "CH-4"
+        }
+      ],
+      "totalBranch": 2,
+      "id": 5
+    },
+    {
+      "email": "darshit.rawal@thegatewaycorp.co.in",
+      "name": "Darhsit Rawal",
+      "totalEmployee": 100,
+      "address": "Rawal Darshit B",
+      "isCompanyActive": true,
+      "companyBranch": [
+        {
+          "branchid": 1,
+          "branchName": "Production",
+          "address": "CH-5"
+        },
+        {
+          "branchid": 2,
+          "branchName": "Development",
+          "address": "CH-4"
+        }
+      ],
+      "totalBranch": 2,
+      "id": 6
+    }
+  ]
+}
