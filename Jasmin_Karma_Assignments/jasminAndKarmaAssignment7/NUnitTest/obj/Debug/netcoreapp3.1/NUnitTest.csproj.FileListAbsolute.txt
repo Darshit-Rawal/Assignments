@@ -1,0 +1,4 @@
+F:\study_matrial\Gateway Projects\Assignments\Jasmin_Karma_Assignments\jasminAndKarmaAssignment7\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.csprojAssemblyReference.cache
+F:\study_matrial\Gateway Projects\Assignments\Jasmin_Karma_Assignments\jasminAndKarmaAssignment7\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.AssemblyInfoInputs.cache
+F:\study_matrial\Gateway Projects\Assignments\Jasmin_Karma_Assignments\jasminAndKarmaAssignment7\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.AssemblyInfo.cs
+F:\study_matrial\Gateway Projects\Assignments\Jasmin_Karma_Assignments\jasminAndKarmaAssignment7\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.csproj.CoreCompileInputs.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jasminAndKarmaAssignment7", "jasminAndKarmaAssignment7\jasminAndKarmaAssignment7.csproj", "{61F3C3D0-CC43-4BB0-B9EF-44DF7074DB4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTest", "NUnitTest\NUnitTest.csproj", "{31C6022F-32DD-4905-9C6D-003F137B3DC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61F3C3D0-CC43-4BB0-B9EF-44DF7074DB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F3C3D0-CC43-4BB0-B9EF-44DF7074DB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F3C3D0-CC43-4BB0-B9EF-44DF7074DB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F3C3D0-CC43-4BB0-B9EF-44DF7074DB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C6022F-32DD-4905-9C6D-003F137B3DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C6022F-32DD-4905-9C6D-003F137B3DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C6022F-32DD-4905-9C6D-003F137B3DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C6022F-32DD-4905-9C6D-003F137B3DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66E73B5B-84B7-4165-9B0F-CF49D530DCC9}
+	EndGlobalSection
+EndGlobal
