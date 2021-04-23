@@ -1,0 +1,8 @@
+C:\Users\darshit\source\repos\Assignment_8\Assignment_8\obj\Debug\netcoreapp3.1\Assignment_8.AssemblyInfoInputs.cache
+C:\Users\darshit\source\repos\Assignment_8\Assignment_8\obj\Debug\netcoreapp3.1\Assignment_8.AssemblyInfo.cs
+C:\Users\darshit\source\repos\Assignment_8\Assignment_8\obj\Debug\netcoreapp3.1\Assignment_8.csproj.CoreCompileInputs.cache
+C:\Users\darshit\source\repos\Assignment_8\Assignment_8\bin\Debug\netcoreapp3.1\Assignment_8.deps.json
+C:\Users\darshit\source\repos\Assignment_8\Assignment_8\bin\Debug\netcoreapp3.1\Assignment_8.dll
+C:\Users\darshit\source\repos\Assignment_8\Assignment_8\bin\Debug\netcoreapp3.1\Assignment_8.pdb
+C:\Users\darshit\source\repos\Assignment_8\Assignment_8\obj\Debug\netcoreapp3.1\Assignment_8.dll
+C:\Users\darshit\source\repos\Assignment_8\Assignment_8\obj\Debug\netcoreapp3.1\Assignment_8.pdb
