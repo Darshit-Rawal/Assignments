@@ -1,0 +1,75 @@
+<div id="layoutSidenav_content" style="margin-left: 20px;">
+  <main>
+      <div class="container-fluid">
+          <h1 class="mt-4">Dashboard</h1>
+          <ol class="breadcrumb mb-4">
+              <li class="breadcrumb-item active">Dashboard</li>
+          </ol>
+          <div class="card mb-4">
+              <div class="card-header">
+                  <i class="fas fa-table mr-1"></i>
+                  Companies
+              </div>
+              <div class="card-body">
+                  <div class="table-responsive">
+                      <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                          <thead>
+                              <tr>
+                                  <th>Name</th>
+                                  <th>Email</th>
+                                  <th>totalEmployee</th>
+                                  <th>address</th>
+                                  <th>isCompanyActive</th>
+                                  <th>totalBranch</th>
+                                  <th>Details</th>
+                                  <th>Update</th>
+                                  <th>Remove</th>
+                              </tr>
+                          </thead>
+                          <tfoot>
+                              <tr>
+                                  <th>Name</th>
+                                  <th>Email</th>
+                                  <th>totalEmployee</th>
+                                  <th>address</th>
+                                  <th>isCompanyActive</th>
+                                  <th>totalBranch</th>
+                                  <th>Details</th>
+                                  <th>Update</th>
+                                  <th>Remove</th>
+                              </tr>
+                          </tfoot>
+                          <tbody>
+                              <tr *ngFor="let company of companies; let i = index">
+                                  <td>{{ company.name }}</td>
+                                  <td>{{ company.email }}</td>
+                                  <td>{{ company.totalEmployee }}</td>
+                                  <td>{{ company.address | shorten}}</td>
+                                  <td><span *ngIf="company.isCompanyActive" style="color: rgb(0, 184, 0);"><i class="fas fa-check-circle"></i></span>
+                                  <span *ngIf="!company.isCompanyActive" style="color: red;"><i class="fas fa-times-circle"></i></span></td>
+                                  <td>{{ company.totalBranch }}</td>
+                                  <td><a style="color: rgb(0, 140, 255);cursor: pointer;" (click)="openModel(company.id)" ><i class="fas fa-info-circle"></i></a></td>
+                                  <td><a style="color: rgb(0, 0, 126);" [routerLink]="['/', company.id, 'edit']"><i class="fas fa-edit"></i></a></td>
+                                  <td><a style="color: rgb(223, 6, 6);cursor: pointer;" (click)="onDelete(company.id)"><i class="fas fa-trash"></i></a></td>
+                              </tr>
+                          </tbody>
+                      </table>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </main>
+</div>
+
+
+<!-- <ng-template #content let-modal>
+    <div class="modal-header">
+      <h4 class="modal-title">Modal title</h4>
+    </div>
+    <div class="modal-body">
+      <p>One fine body&hellip;</p>
+    </div>
+    <div class="modal-footer">
+      <button type="button" class="btn btn-light" (click)="modal.close('Close click')">Close</button>
+    </div>
+</ng-template> -->
