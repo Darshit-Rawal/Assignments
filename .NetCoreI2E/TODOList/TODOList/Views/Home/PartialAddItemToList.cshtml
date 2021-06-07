@@ -1,0 +1,20 @@
+﻿@model List<TODOList.Models.Lists>
+
+@if (Model.Any())
+{
+    <form method="post" action="Home/CreateItemInList" style="margin: auto" class="form-group col-md-5">
+        <label for="lists">Select List: </label>
+        <select id="list" name="list" class="form-control" style="margin-top: 10px">
+            @foreach (var item in Model)
+            {
+                <option value="@item.Id">@item.ListName</option>
+            }
+        </select>
+        <input name="ItemName" id="ItemName" placeholder="Enter Item" class="form-control" style="margin-top: 10px" required="required" pattern="[A-Za-z0-9]{1,20}"/>
+        <button type="submit" class="btn btn-success" style="margin-top: 10px">Add Item</button>
+    </form>
+}
+else 
+{ 
+    <p style="color: yellow">Create List before Adding Item</p>
+}

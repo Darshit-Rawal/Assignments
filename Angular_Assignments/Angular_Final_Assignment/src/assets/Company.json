@@ -1,13 +1,11 @@
 {
   "company": [
     {
-      "id": 3,
       "email": "Company3@mail.com",
       "name": "Company3",
-      "totalEmployee": 50,
+      "totalEmployee": "50",
       "address": "Company3 address, Ahmedabad",
       "isCompanyActive": true,
-      "totalBranch": 2,
       "companyBranch": [
         {
           "branchid": 1,
@@ -19,7 +17,9 @@
           "branchName": "Production",
           "address": "CH-7"
         }
-      ]
+      ],
+      "totalBranch": 2,
+      "id": 3
     },
     {
       "email": "Company1@mail.com",
@@ -45,7 +45,7 @@
     {
       "email": "darshit123@gmail.com",
       "name": "Darshit Rawal",
-      "totalEmployee": 50,
+      "totalEmployee": "50",
       "address": "Darshit",
       "isCompanyActive": true,
       "companyBranch": [
@@ -53,14 +53,9 @@
           "branchid": 1,
           "branchName": "Production",
           "address": "CH-5"
-        },
-        {
-          "branchid": 2,
-          "branchName": "Development",
-          "address": "CH-4"
         }
       ],
-      "totalBranch": 2,
+      "totalBranch": 1,
       "id": 5
     },
     {
@@ -83,6 +78,43 @@
       ],
       "totalBranch": 2,
       "id": 6
+    },
+    {
+      "email": "darshit123@gmail.com",
+      "name": "Darhsit Rawal",
+      "totalEmployee": "20",
+      "address": "darshit",
+      "isCompanyActive": true,
+      "companyBranch": [
+        {
+          "branchid": 2,
+          "branchName": "Production",
+          "address": "Ch-4"
+        }
+      ],
+      "totalBranch": 1,
+      "id": 7
+    },
+    {
+      "email": "darshit123@gmail.com",
+      "name": "Company245",
+      "totalEmployee": 500,
+      "address": "Example",
+      "isCompanyActive": true,
+      "companyBranch": [
+        {
+          "branchid": 1,
+          "branchName": "xyz",
+          "address": "abc"
+        },
+        {
+          "branchid": 1,
+          "branchName": "abc",
+          "address": "xyz"
+        }
+      ],
+      "totalBranch": 2,
+      "id": 8
     }
   ]
 }

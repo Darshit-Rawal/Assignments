@@ -1,0 +1,64 @@
+﻿@model List<TODOList.Models.Lists>
+@{
+    ViewData["Title"] = "Home Page";
+}
+@inject Microsoft.AspNetCore.Hosting.IWebHostEnvironment env
+
+
+
+<div class="text-center">
+    <h1 class="display-4">TODO List</h1>
+</div>
+
+<div style="display: flex; justify-content:center" class="text-center">
+    <div>
+        <button type="button" id="btnCreate" class="btn btn-primary" onclick="loadCreateList()">Create List</button>
+    </div>
+    @if (Model.Any())
+    {
+        <div style="margin-left: 20px">
+            <button type="button" id="btnAdd" class="btn btn-primary" onclick="loadAddItemToList()">Add To List</button>
+        </div>
+    }
+
+</div>
+
+
+@if (ViewBag.Status == false)
+{
+    <div style="margin-top:20px;text-align:center" id="limit">
+        <p style="color: red;font-size:15px; font-weight:bold">Max. Limit Reached!!</p>
+    </div>
+}
+
+<div id="dynamic-modal">
+</div>
+
+@foreach (Lists item in Model)
+{
+    <div style="position: relative; margin-top:20px">
+        @(await Component.InvokeAsync("ListItem", item))
+    </div>
+}
+
+
+<h5 class="text-center" style="margin-top: 100px">@env.EnvironmentName Environment</h5>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+<script>
+    function loadCreateList() {
+        $.get('@Url.Action("PartialCreateList", "Home")', {}, function (response) {
+            $("#dynamic-modal").html(response);
+        });
+    }
+
+    function loadAddItemToList() {
+        $.get('@Url.Action("PartialAddItemToList", "Home")', {}, function (response) {
+            $("#dynamic-modal").html(response);
+        });
+    }
+
+    $(function () {
+        setTimeout(function () { $("#limit").fadeOut(1000); }, 2000)
+    })
+</script>

@@ -1,0 +1,80 @@
+﻿@model TODOList.Models.Lists
+@inject Microsoft.Extensions.Options.IOptions<EnvSettings> _conf
+
+<style>
+    /*.overline {
+        font-weight: bold;
+        text-decoration: line-through;
+    }
+    .noline{
+        font-weight: bold;
+    }*/
+    .common {
+        color: black;
+        font-weight: bold;
+    }
+
+    a:hover {
+        color: black;
+        text-decoration: none;
+    }
+
+    .dev {
+        border: 2px solid blue;
+        
+    }
+
+    .prod {
+        border: 2px solid #828282;
+    }
+
+    .common {
+        padding: 15px;
+    }
+
+    .common-env {
+        padding: 15px;
+        background-color: @_conf.Value.Color;
+        border-radius: 8px;
+    }
+
+    .item {
+        background-color: #ffda85;
+        border: 2px solid #ffb200;
+        border-radius: 8px;
+        margin-top: 3px;
+        margin-left: 30px;
+    }
+</style>
+
+@{
+    var CssClass = "prod";
+    if (ViewBag.Env == "Development")
+    {
+        CssClass = "dev";
+    }
+}
+
+
+<div class="col-md-8" style="margin-top: 50px;margin:auto">
+    <div class="@CssClass common-env">
+        <span style="font-size: 20px; font-weight: bold">@Model.ListName</span>
+    </div>
+    <div>
+        @foreach (var item in Model.Items)
+        {
+            var href = "Home/UpdateStatus/" + @Model.Id + "-" + @item.Id;
+            <div class="item common ">
+                <a href=@href class="common">&bull; @item.text</a>
+                @if (item.checkedFlag)
+                {
+                    <span class="float-right">Checked</span>
+                }
+                else
+                {
+                    <span class="float-right">Unchecked</span>
+                }
+            </div>
+        }
+    </div>
+</div>

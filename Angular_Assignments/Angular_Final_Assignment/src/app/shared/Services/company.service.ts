@@ -2,14 +2,13 @@ import { HttpClient, HttpHeaders } from "@angular/common/http";
 import { Injectable } from "@angular/core";
 import { Observable, Subject } from "rxjs";
 import { Company } from "../Models/company.model";
-import { catchError, retry } from 'rxjs/operators';
+import { retry } from 'rxjs/operators';
 
 @Injectable()
 export class CompanyService{
 
   private api = "http://localhost:3000";
   companyChanged = new Subject<Company[]>();
-  private companies!: Company[];
 
   httpOptions = {
     headers: new HttpHeaders({
